@@ -10,7 +10,5 @@ public class ex7_10 {
             salario[i - 200] = (int) Math.round(vendadinheiro[i - 200] * rate + base);
             System.out.printf("%nTotal em vendas:%d  ->   Salário:%d", i, salario[i - 200]);
         }
-
-
     }
 }
