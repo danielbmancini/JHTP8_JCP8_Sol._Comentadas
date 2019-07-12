@@ -5,7 +5,7 @@ public class ex7_20 { //i did a different kind of formatting, but okay
 
     public static void main(String[] args) {
         int[][] sales = new int[4][5]; /*4 and 5 are arbitrary - the positions [i][j] must represent a sold quantity of the i vendor, for the j product.
-   PLEASE, go ahead and change the number sO yOu cAn sEE whAt a grEaT prOgrAmmEr i aM    ||||  Also, you cant declare this array using '{Objects}'. */
+                                         Also, you cant declare this array using '{Objects}'. */
         multiDimensionalArrayFill(sales);
         mostrarUmaNota(sales);
 
@@ -45,7 +45,7 @@ public class ex7_20 { //i did a different kind of formatting, but okay
             System.out.println("\n");
         }
     }
-    static int somar(int[] storedElements) //just sums elements from an array storedElements
+    private static int somar(int[] storedElements) //just sums elements from an array storedElements
     {
         int sum = 0;
         for(int i = 0; i < storedElements.length; i++)
