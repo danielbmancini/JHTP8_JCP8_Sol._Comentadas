@@ -1,0 +1,16 @@
+bi-dimensional movement in arrays: mechanical turtle implements
+methods
+
+uses floor 20x20 int[][] in main class
+uses pen_state in main class
+should use current_block in main class
+methods:
+1 - switches pen state
+2 - switches pen state
+3 - introduces 'sentido' - to the right (0)
+4 - sentido to the left - to the left (1)
+5 - loops index 1 length distance, with support of sentido,current_block and pen state
+6 - nested for loops shows 20x20 array (in 2 dimensions)
+9 - System.exits (0)
+
+run class extends methods, checks for negative inputs and denies it
