@@ -3,8 +3,19 @@ package ex7_21;
 import java.util.Scanner;
 
 public class ex7_21_run {
+    private static Scanner scan = new Scanner(System.in);
+    static int returnFloorLenght(){
+        System.out.println("Set non-zero positive floor[][] length:");
+        int a = scan.nextInt();
+        if (a > 0)
+            return a;
+        else {
+            System.out.println("Zero or negative number inserted. floor.length is now 20.");
+            return 20;
+        }
+
+    }
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
         System.out.println("Insert a command:");
         int command = scan.nextInt();
         switch (command) {
