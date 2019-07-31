@@ -1,0 +1,9 @@
+roughly,
+the virtual computer should consist of buses, an ALU, and other 'circuitry'.
+
+the physicality of the 'circuitry' can be expressed or distinguished by using individual classes.
+
+the main class can be called the 'cpu', and can contain the final ints, whose usage is mediated by a switch expression.
+
+scanning - in the form of "Object object = scanner.nextObject()" - will be understood as the register, and the register memory (if a register only stores instructions).
+//TODO: do the project
