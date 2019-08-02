@@ -1,9 +1,9 @@
 package ex8_14;
 
-public class ex8_14_IntegerSet_Run {
+public class IntegerSet_Run {
     public static void main(String[] args) {
-        ex8_14_IntegerSet set1 = new ex8_14_IntegerSet();
-        ex8_14_IntegerSet set2 = new ex8_14_IntegerSet();
+        IntegerSet set1 = new IntegerSet();
+        IntegerSet set2 = new IntegerSet();
         set1.insertElement(3);
         set2.insertElement(3);
         set1.insertElement(1);

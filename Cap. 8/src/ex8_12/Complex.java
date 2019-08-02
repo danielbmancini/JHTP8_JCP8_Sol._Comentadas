@@ -1,15 +1,15 @@
 package ex8_12;
 
-class ex8_12_Complex {
+class Complex {
     private float a;
     private float b;
 
-    ex8_12_Complex() {
+    Complex() {
         a = 0f;
         b = 0f;
     }
 
-    ex8_12_Complex(float a, float b) {
+    Complex(float a, float b) {
         this.a = a;
         this.b = b;
     }
@@ -22,12 +22,12 @@ class ex8_12_Complex {
         return b;
     }
 
-    ex8_12_Complex sumWith(ex8_12_Complex second) {
-        return new ex8_12_Complex((a + second.getA()), (b + second.getB()));
+    Complex sumWith(Complex second) {
+        return new Complex((a + second.getA()), (b + second.getB()));
     }
 
-    ex8_12_Complex subtractWith(ex8_12_Complex second) {
-        return new ex8_12_Complex((a - second.getA()), (b - second.getB()));
+    Complex subtractWith(Complex second) {
+        return new Complex((a - second.getA()), (b - second.getB()));
     }
 
     String printThisNumber() {

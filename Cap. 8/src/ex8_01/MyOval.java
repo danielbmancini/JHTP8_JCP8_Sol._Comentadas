@@ -2,7 +2,7 @@ package ex8_01;
 
 import java.awt.*;
 
-class ex8_01_MyOval {
+class MyOval {
     private int x;
     private int y;
     private int width;
@@ -10,7 +10,7 @@ class ex8_01_MyOval {
     private Color myColor;
     private final boolean fill;
 
-    ex8_01_MyOval()
+    MyOval()
     {
         x = 0;
         y = 0;
@@ -20,7 +20,7 @@ class ex8_01_MyOval {
         fill = false;
     }
 
-    ex8_01_MyOval(int x, int y, int width, int height, Color color, boolean fill)
+    MyOval(int x, int y, int width, int height, Color color, boolean fill)
     {
         this.x = x;
         this.y = y;
