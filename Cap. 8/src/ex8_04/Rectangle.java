@@ -1,6 +1,6 @@
 package ex8_04;
 
-class ex8_04_Rectangle {
+class Rectangle {
     private double length;
     private double width;
 
@@ -23,7 +23,7 @@ class ex8_04_Rectangle {
         return width;
     }
 
-    ex8_04_Rectangle(double length, double width)
+    Rectangle(double length, double width)
     {
         setLength(length);
         setWidth(width);

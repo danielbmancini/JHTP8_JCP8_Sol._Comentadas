@@ -1,5 +1,5 @@
 package ex7_35;
 
-class ex7_35_memory {
+class memory {
     static int[] rmemory = new int[100];
 }

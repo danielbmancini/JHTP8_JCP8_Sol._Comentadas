@@ -1,9 +1,10 @@
 package ex8_01;
 
 import javax.swing.JFrame;
-public class ex8_01_RunDraw {
+
+public class RunDraw {
     public static void main(String[] args) {
-        ex8_01_DrawPanel panel = new ex8_01_DrawPanel(false); //test for true
+        DrawPanel panel = new DrawPanel(false); //test for true
         JFrame app = new JFrame();
 
         app.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

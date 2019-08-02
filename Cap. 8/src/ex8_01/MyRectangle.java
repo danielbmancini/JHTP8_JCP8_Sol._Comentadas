@@ -2,7 +2,7 @@ package ex8_01;
 
 import java.awt.*;
 
-class ex8_01_MyRectangle {
+class MyRectangle {
     private int x;
     private int y;
     private int width;
@@ -10,7 +10,7 @@ class ex8_01_MyRectangle {
     private Color myColor;
     private final boolean fill;
 
-    ex8_01_MyRectangle()
+    MyRectangle()
     {
         x = 0;
         y = 0;
@@ -20,7 +20,7 @@ class ex8_01_MyRectangle {
         fill = false;
     }
 
-    ex8_01_MyRectangle(int x, int y, int width, int height, Color color, boolean fill)
+    MyRectangle(int x, int y, int width, int height, Color color, boolean fill)
     {
         this.x = x;
         this.y = y;
