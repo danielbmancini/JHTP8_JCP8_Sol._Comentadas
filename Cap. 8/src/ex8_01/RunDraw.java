@@ -9,7 +9,7 @@ public class RunDraw {
 
         app.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         app.add(panel);
-        app.setSize(300,300);
+        app.setSize(350, 350);
         app.setVisible(true);
     }
 }
