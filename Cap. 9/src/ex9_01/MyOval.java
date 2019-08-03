@@ -1,16 +1,15 @@
-package ex8_01;
+package ex9_01;
 
 import java.awt.*;
 
-class MyRectangle {
+class MyOval {
     private int x;
     private int y;
     private int width;
     private int height;
     private Color myColor;
     private final boolean fill;
-
-    MyRectangle()
+    MyOval()
     {
         x = 0;
         y = 0;
@@ -20,7 +19,7 @@ class MyRectangle {
         fill = false;
     }
 
-    MyRectangle(int x, int y, int width, int height, Color color, boolean fill)
+    MyOval(int x, int y, int width, int height, Color color, boolean fill)
     {
         this.x = x;
         this.y = y;
@@ -34,8 +33,8 @@ class MyRectangle {
     {
         g.setColor(myColor);
         if(fill)
-            g.fillRect(x,y,width,height);
+            g.fillOval(x,y,width,height);
         else
-            g.drawRect(x,y,width,height);
+            g.drawOval(x,y,width,height);
     }
 }
