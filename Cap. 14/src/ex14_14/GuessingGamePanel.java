@@ -38,8 +38,16 @@ class GuessingGamePanel extends JPanel {
 
     private void newGame() {
         remove(startGame);
+        setBackground(Color.WHITE);
         JButton resetButton = new JButton("reset");
-        resetButton.addActionListener(new ButtonHandler());
+        resetButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+                removeAll();
+                textField.setEditable(true);
+                newGame();
+            }
+        });
         add(resetButton);
         randomizeNumber();
         description.setEditable(false);
@@ -54,6 +62,7 @@ class GuessingGamePanel extends JPanel {
                     e.printStackTrace();
                 }
                 try {
+                    textField.setText(""); //clears guess in textField
                     nextInsert(guess);
                     changeBackground(guess);
                 } catch (Exception e) {
@@ -70,8 +79,7 @@ class GuessingGamePanel extends JPanel {
             throw new Exception("Guessing Error");
         if (guess == getNumber()) {
             textField.setEditable(false);
-            JOptionPane.showMessageDialog(null, "Correct!");
-            System.exit(0);
+            JOptionPane.showMessageDialog(getRootPane(), "Correct!");
         } else if (guess < getNumber()) {
             remove(tooHigh);
             add(tooLow);
