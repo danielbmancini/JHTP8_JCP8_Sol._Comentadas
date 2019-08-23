@@ -66,7 +66,7 @@ class GuessingGamePanel extends JPanel {
                     nextInsert(guess);
                     changeBackground(guess);
                 } catch (Exception e) {
-                    System.err.println(e.getMessage() + "\nNo '0' guesses!");
+                    System.err.println(e.getMessage());
                 }
             }
         });
