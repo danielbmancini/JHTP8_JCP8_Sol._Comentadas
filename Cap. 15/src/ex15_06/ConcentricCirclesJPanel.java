@@ -10,7 +10,7 @@ public class ConcentricCirclesJPanel extends JPanel {
         Random random = new Random();
 
         int[][] arcs = new int[8][4];
-        int a = 250 - (int) Math.floor(25 * Math.sqrt(2)); //so the centre of the circle is the centre of the 500x500 JFrame: 250 - k, for k = sqrt(2) * (1/2)radius
+        int a = 250 - (int) Math.floor(25 * Math.sqrt(2)); //so the centre of the circle is the centre of the 500x500 JFrame: 250 - k, for k = sqrt(2) * radius
         arcs[0] = new int[]{a, a, 50, 50};
         for (int i = 1; i < arcs.length; i++)
             for (int j = 0; j <= 1; j++)
