@@ -1,4 +1,4 @@
-package ex18_26;
+package ex15_26;
 
 import javax.swing.JFrame;
 
