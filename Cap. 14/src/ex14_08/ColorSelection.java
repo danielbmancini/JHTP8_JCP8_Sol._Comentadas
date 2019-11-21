@@ -1,4 +1,4 @@
-package e14_08;
+package ex14_08;
 
 import javax.swing.JFrame;
 
