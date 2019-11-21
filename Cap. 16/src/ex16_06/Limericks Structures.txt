@@ -1,0 +1,23 @@
+a n v p a adj k₁
+cn (had) a ad k₁
+pron v adj p k₂
+adj a n p pron k₂
+pron (adv/conjuction) n (v) p a k₁
+
+n pron v v
+adj adj n p adj n
+conj pron verb adj
+pron conj verb adj
+conj pron verb verb pron n
+
+pron adv v a n p k₁
+conjuction (had) adj (of) v p k₁
+pron v a k₂
+adv v adv k₂
+adv a noun v pronun conj a k₁
+
+pron (was) a adj n v k₁
+adv adj pron v k₁
+pron (was) v p a k₂
+not adj p a k₂
+con adv v adv p k₁

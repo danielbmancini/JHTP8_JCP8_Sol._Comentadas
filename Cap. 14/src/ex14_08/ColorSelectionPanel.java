@@ -1,5 +1,5 @@
 //this is an useless ex., no one really needs to know how to design gui's by writing nowadays
-package e14_08;
+package ex14_08;
 
 import javax.swing.*;
 import java.awt.*;
