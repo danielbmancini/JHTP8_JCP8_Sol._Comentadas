@@ -38,9 +38,9 @@ public class Limericks {
             "puny", "scrawny", "disgusting", "fresh", "greasy", "juicy",
             "hot", "moldy", "nutritious", "nutty", "putrid", "rancid"};
 
-    //3 different limerick structures vectors referencing Object[] grouping indexes.
+    //3 different limerick structures vectors referencing getReferences()' references.
     //each sub array corresponds to one verse.
-    //a structuralist approach, you could say.
+    //this is a structuralist approach, you could say.
     private int[][] limerickStructure_1 = {{1, 10, 2, 0, 1, 11, 10},
             {9, 3, 1, 11, 10},
             {8, 2, 11, 0, 10},
