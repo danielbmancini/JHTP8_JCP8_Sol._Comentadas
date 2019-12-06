@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="mathematics" type="PLAIN_TEXT" />
       <mapping pattern="ex8_01" type="PLAIN_TEXT" />
       <mapping pattern="Limerics structures" type="PLAIN_TEXT" />
