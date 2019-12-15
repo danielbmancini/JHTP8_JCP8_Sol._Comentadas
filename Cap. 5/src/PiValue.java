@@ -1,4 +1,8 @@
-public class ex5_20 {
+/**
+ * exercise 5.20
+ */
+
+public class PiValue {
     public static void main(String[] args) {
         double picalculado = 4;
 

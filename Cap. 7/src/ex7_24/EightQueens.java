@@ -3,7 +3,7 @@ package ex7_24;
 //TODO: finish
 import java.util.Arrays;
 
-class ex7_24 {
+class EightQueens {
     static int queenCount = 0;
     private static int[][] table = new int[8][8];
     private static int tableCount = 2;

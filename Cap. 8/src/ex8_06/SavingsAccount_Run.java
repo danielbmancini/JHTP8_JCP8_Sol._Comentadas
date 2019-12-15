@@ -1,7 +1,9 @@
-public class ex8_06_SavingsAccount_Run{
+package ex8_06;
+
+public class SavingsAccount_Run {
     public static void main(String[] args) {
-        ex8_06_SavingsAccount saver1 = new ex8_06_SavingsAccount(2000f);
-        ex8_06_SavingsAccount saver2 = new ex8_06_SavingsAccount(3000f);
+        SavingsAccount saver1 = new SavingsAccount(2000f);
+        SavingsAccount saver2 = new SavingsAccount(3000f);
 
         saver1.modifyInterestRate(4f);
         saver2.modifyInterestRate(4f);

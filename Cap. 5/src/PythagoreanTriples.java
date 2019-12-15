@@ -1,4 +1,8 @@
-public class ex5_21 { /* lista, por força bruta, todos os ternos pitagóricos a² + b² = c², c <= 500 , desconsiderando permutações de a e b.*/
+/**
+ * exercise 5.21
+ */
+
+public class PythagoreanTriples { /* lista, por força bruta, todos os ternos pitagóricos a² + b² = c², c <= 500 , desconsiderando permutações de a e b.*/
     public static void main(String[] args) {
 
         int[] i_arm = new int[500];

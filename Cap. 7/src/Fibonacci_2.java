@@ -1,5 +1,6 @@
 //recursive version - uses args[0] as n --
-public class ex7_29_2 {
+//exercise 7.29 extra
+public class Fibonacci_2 {
     public static void main(String[] args) {
         System.out.println(Integer.parseInt(args[0]) + "-th number in fibonacci sequence is: " + fibonacci(Integer.parseInt(args[0])));
     }

@@ -1,7 +1,10 @@
-public class ex5_12 {
-    private static int[] umaquinze = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
-    public static int multiply(int[] arr)
-    {
+/*
+ * exercise 5.12
+ */
+public class OddNumberProduct {
+    private static int[] umaquinze = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
+
+    public static int multiply(int[] arr) {
         int pro = 1;
         for (int i = 0; i < arr.length; i++)
             pro = pro * arr[i];

@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 // wanted to use ArrayLists instead of variable argument list, just for manipulation testing
-public class ex7_14 {
+//exercise 7.14
+public class IntegerListing {
     private static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {

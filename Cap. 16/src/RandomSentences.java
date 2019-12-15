@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ex16_05 {
+public class RandomSentences {
     public static void main(String[] args) {
         String[] articles = {"the", "a", "one", "some", "any"};
         String[] nouns = {"boy", "girl", "dog", "town", "car"};
