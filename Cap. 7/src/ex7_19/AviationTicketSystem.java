@@ -2,7 +2,7 @@ package ex7_19;
 
 import java.util.Scanner;
 
-class ex7_19 {
+class AviationTicketSystem {
 
     private static Scanner scan = new Scanner(System.in);
     private static int classIsFullUsage = 0;

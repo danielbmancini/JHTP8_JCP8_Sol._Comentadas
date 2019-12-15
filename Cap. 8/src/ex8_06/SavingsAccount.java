@@ -1,9 +1,10 @@
-public class ex8_06_SavingsAccount {
+package ex8_06;
+
+public class SavingsAccount {
     private static float annualInterestRate;
     private float savingsBalance;
 
-    public ex8_06_SavingsAccount(float balance)
-    {
+    public SavingsAccount(float balance) {
         savingsBalance = balance;
     }
 

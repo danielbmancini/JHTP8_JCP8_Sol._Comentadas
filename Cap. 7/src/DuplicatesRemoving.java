@@ -1,7 +1,8 @@
 import java.util.Arrays; // desnecessário; apenas usado para fins de generalização
 import java.util.Scanner;
-//generalized solution (excludes the necessity to enter in the 10-100 interval) for the 12º problem in the 7º chapter.
-public class ex7_12 { /* Resolve uma versão adaptada do exercício 12 do capítulo 7, onde se desconsidera a necessidade de entradas no intervalo de 10 a 100.*/
+//generalized solution (excludes the necessity to enter in the 10-100 interval)
+//exercise 7.12
+public class DuplicatesRemoving { /* Resolve uma versão adaptada do exercício 12 do capítulo 7, onde se desconsidera a necessidade de entradas no intervalo de 10 a 100.*/
     private static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) { //problema convoluto..

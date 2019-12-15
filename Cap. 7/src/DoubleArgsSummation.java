@@ -1,4 +1,7 @@
-public class ex7_16 {
+/*
+    exercise 7.16
+ */
+public class DoubleArgsSummation {
     public static void main(String[] args) {
 
         double sum = 0;

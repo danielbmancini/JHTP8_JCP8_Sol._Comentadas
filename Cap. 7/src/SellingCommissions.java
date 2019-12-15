@@ -1,4 +1,7 @@
-public class ex7_10 {
+/*
+    exercise 7.10
+ */
+public class SellingCommissions {
     public static void main(String[] args) {
         int base = 200;
         double rate = 1.09;

@@ -1,6 +1,9 @@
 import java.util.Random;
 
-public class ex7_20 { //i did a different kind of formatting, but okay
+/*
+    exercise 7.20
+ */
+public class TotalSelling { //i did a different kind of formatting, but okay
     private static Random random = new Random();
 
     public static void main(String[] args) {
