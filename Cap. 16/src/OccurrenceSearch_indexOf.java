@@ -14,12 +14,11 @@ public class OccurrenceSearch_indexOf {
         int occurrences = 0;
         int range = 0;
         input = input.replaceAll(" ", ""); //remove spaces to facilitate analysis
-        while (range < input.length()) //count occurrences by searching in increasingly restrictive ranges
+        while (input.indexOf(character, range) != -1) //count occurrences by searching in increasingly restrictive ranges
         {
             occurrences++;
             range = input.indexOf(character, range) + 1;
         }
-
         System.out.printf("%nOccurrences of character '%s': %d", character, occurrences);
 
     }
