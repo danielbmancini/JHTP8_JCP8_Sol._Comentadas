@@ -3,7 +3,7 @@ import java.util.Random;
 /*
     exercise 7.17
  */
-public class DiesGame {
+public class DiceGame {
     public static void main(String[] args) {
         Random random = new Random();
         int[] result = new int[11];

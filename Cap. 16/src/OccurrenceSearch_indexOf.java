@@ -13,7 +13,6 @@ public class OccurrenceSearch_indexOf {
         String character = scanner.next();
         int occurrences = 0;
         int range = 0;
-        input = input.replaceAll(" ", ""); //remove spaces to facilitate analysis
         while (input.indexOf(character, range) != -1) //count occurrences by searching in increasingly restrictive ranges
         {
             occurrences++;
