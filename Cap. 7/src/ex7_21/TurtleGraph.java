@@ -3,7 +3,7 @@ package ex7_21;
 import java.util.Arrays;
 
 class TurtleGraph {
-    private static int floorLength = TurtleGraph_run.returnFloorLenght();
+    private static int floorLength = TurtleGraph_run.returnFloorLength();
     private static boolean pen_state;
     private static int[] current_block = {0, 0}; //should be valued at most (19,19)
     private static Integer direction = 1; // from a same frame of reference, 0: up, 1: right, 2: down, 3: left
@@ -121,7 +121,4 @@ class TurtleGraph {
             }
     }
 
-    static void nine() {
-        System.exit(0);
-    }
 }

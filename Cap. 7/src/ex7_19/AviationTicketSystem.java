@@ -7,11 +7,12 @@ class AviationTicketSystem {
     private static Scanner scan = new Scanner(System.in);
     private static int classIsFullUsage = 0;
 
-    static void exitIfFull(boolean[] assentos) { //exits when the plane is full
+    static void exitIfFull(boolean[] assentos, boolean bool) { //exits when the plane is full
         if (assentos[(assentos.length / 2) - 1] && assentos[assentos.length - 1]) //if the last seat of both classes are occupied
         {
             System.out.println("\nThe plane is full.");
             System.exit(0);
+            bool = false;
         }
     }
 
@@ -32,7 +33,7 @@ class AviationTicketSystem {
 
     static void classIsFull(int choice, boolean[] transfer) {
         String choice2;
-        exitIfFull(transfer);
+        exitIfFull(transfer, true);
 
 
         if ((choice == 1 && transfer[(transfer.length / 2) - 1] && classIsFullUsage != 1) ||
