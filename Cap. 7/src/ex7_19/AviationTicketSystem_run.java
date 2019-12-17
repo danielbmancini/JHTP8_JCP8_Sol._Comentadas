@@ -11,16 +11,17 @@ public class AviationTicketSystem_run {
         Arrays.fill(assentos, false);
     }
 
-    public static void main(String[] args) { //main 'ends' when the ex7_19.exitIfFull if condition is true
-        Scanner scan = new Scanner(System.in);
-        AviationTicketSystem.exitIfFull(assentos);
-        AviationTicketSystem.classIsFull(choice, assentos); //checks if class is full, to switch if so
+    public static void main(String[] args) {
+        boolean bool = true;
+        do {
+            Scanner scan = new Scanner(System.in);
+            AviationTicketSystem.classIsFull(choice, assentos); //checks if class is full, to switch if so
 
-        System.out.printf("%nInsert 1 for first-class, or 2 for economic.");
-        choice = scan.nextInt();
+            System.out.printf("%nInsert 1 for first-class, or 2 for economic.");
+            choice = scan.nextInt();
 
-        AviationTicketSystem.afterChoice(choice, assentos);
-        main(args);
-
+            AviationTicketSystem.afterChoice(choice, assentos);
+            AviationTicketSystem.exitIfFull(assentos, bool);
+        } while (bool);
     }
 }
