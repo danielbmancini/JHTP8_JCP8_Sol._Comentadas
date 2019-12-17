@@ -41,7 +41,6 @@ public class TurtleGraph_run {
                         TurtleGraph.five(dist - 1);
                     else if (dist != 1) {
                         System.out.println("Can't input negative distance.");
-                        main(args);
                         break;
                     }
                     if (dist == 1)
