@@ -1,23 +1,32 @@
 package ex15_27;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-import java.awt.*;
 import java.awt.geom.Arc2D;
 import java.util.Random;
 
 public class PieGraph extends JPanel {
     private JTextField textField1;
     private JLabel insert4NumbersLabel;
-    private JPanel jPanel;
     int[] angle_extent;
     final int[] i = {0};
     private Random random = new Random();
 
     public PieGraph() {
         int[] numbers = new int[4];
-
+        setLayout(new GridBagLayout());
+        textField1 = new JTextField();
+        textField1.setHorizontalAlignment(JTextField.CENTER);
+        insert4NumbersLabel = new JLabel("Insert 4 numbers:");
+        GridBagConstraints constraints =
+                new GridBagConstraints(5, 2, 10, 3, 1, 1, GridBagConstraints.NORTH, GridBagConstraints.NONE, new Insets(50, 0, 50, 0), 0, 0);
+        add(insert4NumbersLabel, constraints);
+        constraints.gridy = 5;
+        constraints.insets = new Insets(0, 0, 0, 0);
+        constraints.fill = GridBagConstraints.HORIZONTAL;
+        add(textField1, constraints);
         textField1.addKeyListener(new KeyAdapter() {
             @Override
             public void keyPressed(KeyEvent e) {
@@ -30,7 +39,7 @@ public class PieGraph extends JPanel {
                         if (i[0] < 3)
                             i[0]++;
                         else {
-                            textField1.setEditable(false);
+                            removeAll();
                             int sum = numbers[0] + numbers[1] + numbers[2] + numbers[3];
                             angle_extent = new int[]{(int) Math.floor(360.0 * numbers[0] / sum), (int) Math.floor(360.0 * numbers[1] / sum),
                                     (int) Math.floor(360.0 * numbers[2] / sum), (int) Math.floor(360.0 * numbers[3] / sum)};
@@ -47,7 +56,6 @@ public class PieGraph extends JPanel {
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
         Graphics2D graphics2D = (Graphics2D) g;
-        add(jPanel);
 
         if (i[0] == 3) {
             changeColor(graphics2D);
@@ -65,5 +73,4 @@ public class PieGraph extends JPanel {
     private void changeColor(Graphics2D graphics2D) {
         graphics2D.setPaint(new Color(random.nextInt(256), random.nextInt(256), random.nextInt(256)));
     }
-
 }
