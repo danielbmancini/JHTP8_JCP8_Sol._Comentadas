@@ -20,9 +20,4 @@ public class Circle extends TwoDimensional_Shape {
     public double getArea() {
         return Math.PI * Math.pow(x / 2, 2);
     }
-    /*@Override
-    public String toString()
-    {
-        return String.format
-    }*/
 }

@@ -10,6 +10,6 @@ public class DoubleArgsSummation {
             sum += Double.parseDouble(arg);
         }
 
-        System.out.println(sum); //i wrote a super weird code before writing the present code
+        System.out.println(sum);
     }
 }

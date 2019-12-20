@@ -13,7 +13,7 @@ public class PiValue {
                 picalculado = picalculado - a;
             else
                 picalculado = picalculado + a;
-        }//fim de for
+        }
 
         System.out.printf("%f", picalculado);
     }

@@ -29,7 +29,7 @@ public class DrawPanel extends JPanel {
                 rectangles[i] = new MyRectangle(coordinates[0], coordinates[1], coordinates[2], coordinates[3], color, fill);
 
         } //end of external for (i)
-    }//end of constructor}
+    }
 
     public void paintComponent(Graphics g) {
         super.paintComponent(g);

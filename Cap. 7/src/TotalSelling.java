@@ -3,7 +3,7 @@ import java.util.Random;
 /*
     exercise 7.20
  */
-public class TotalSelling { //i did a different kind of formatting, but okay
+public class TotalSelling { //formats differently
     private static Random random = new Random();
 
     public static void main(String[] args) {
@@ -23,14 +23,13 @@ public class TotalSelling { //i did a different kind of formatting, but okay
         }
     }
 
-    private static void mostrarUmaNota(int[][] array) { /* i'm crying, i love this method
-        ... we generalizing (emojis, rico nasty - poppin plays)                     (this method is so unreadable, sorry - but at least is generalized)*/
+    private static void mostrarUmaNota(int[][] array) { //unreadable - shows a grade
         int[] storingElements = new int[array[0].length];
         System.out.print(" ");
         for (int i = 1; i <= array[0].length; i++)
             System.out.printf("%6d", i);
         System.out.println("      Total líquido\n");
-        for (int i = 0; i < array.length; i++) { //idk how i came up with this lmao - it just print the positions as described in 'sales' array line comment
+        for (int i = 0; i < array.length; i++) {
             int printingCounter = 0;
             int printingCounterDupe = 0;
             System.out.print(i + 1);
@@ -48,10 +47,11 @@ public class TotalSelling { //i did a different kind of formatting, but okay
             System.out.println("\n");
         }
     }
-    private static int somar(int[] storedElements) //just sums elements from an array storedElements
+
+    private static int somar(int[] storedElements) //sums elements from an array storedElements
     {
         int sum = 0;
-        for(int i = 0; i < storedElements.length; i++)
+        for (int i = 0; i < storedElements.length; i++)
             sum += storedElements[i];
 
         return sum;
