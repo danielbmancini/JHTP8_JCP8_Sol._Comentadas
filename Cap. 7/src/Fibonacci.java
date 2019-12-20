@@ -9,10 +9,11 @@ public class Fibonacci {
         if (n == 0 || n == 1)
             System.out.println(n + "-th number in the Fibonacci sequence: " + n);
         else {
+            n += 1;
             int[] sequence = new int[n];
             sequence[0] = 0;
             sequence[1] = 1;
-        System.out.print("\n" + n + "-th number in Fibonacci sequence: ");
+            System.out.print("\n" + (n - 1) + "-th number in Fibonacci sequence: ");
         for (int i = 2; i < n  ; i++)
             sequence[i] = sequence[i-1] + sequence[i-2];
 

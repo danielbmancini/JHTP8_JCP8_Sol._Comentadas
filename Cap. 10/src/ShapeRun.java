@@ -1,5 +1,8 @@
-package ex10_09;
+import ex10_09.*;
 
+/*
+    Exercise 10.9 main class
+ */
 public class ShapeRun {
     public static void main(String[] args) {
         Shape[] shapes = new Shape[6];

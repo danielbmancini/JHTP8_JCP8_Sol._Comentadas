@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
-class GuessingGamePanel extends JPanel {
+public class GuessingGamePanel extends JPanel {
     private int number;
     private Random random;
     private JTextArea description;
@@ -15,7 +15,7 @@ class GuessingGamePanel extends JPanel {
     private JTextField textField;
     private JButton startGame;
 
-    GuessingGamePanel() {
+    public GuessingGamePanel() {
         setLayout(new GridLayout(2, 2));
         textField = new JTextField();
         random = new Random();

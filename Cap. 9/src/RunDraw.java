@@ -1,8 +1,11 @@
-package ex9_01;
+import ex9_01.DrawPanel;
 
 import javax.swing.*;
 import java.awt.*;
 
+/*
+    Exercise 9.1 main class
+ */
 public class RunDraw {
     public static void main(String[] args) {
         DrawPanel panel = new DrawPanel(false); //test for true

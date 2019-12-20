@@ -1,4 +1,4 @@
-package ex7_19;
+import ex7_19.AviationTicketSystem;
 
 import java.util.Arrays;
 import java.util.Scanner;

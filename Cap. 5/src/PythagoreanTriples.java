@@ -20,7 +20,7 @@ public class PythagoreanTriples { /* lista, por força bruta, todos os ternos pi
                         f_arm[f] = f;  
 
                         System.out.println(i + ", " + f + ", " + g + ".");
-                    }//fim de if
+                    }
                 }
             }
         }

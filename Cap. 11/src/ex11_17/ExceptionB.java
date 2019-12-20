@@ -1,7 +1,7 @@
 package ex11_17;
 
 public class ExceptionB extends ExceptionA {
-    ExceptionB() {
+    public ExceptionB() {
         super();
     }
 

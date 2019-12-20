@@ -1,7 +1,10 @@
-package ex14_08;
+import ex14_08.ColorSelectionPanel;
 
 import javax.swing.JFrame;
 
+/*
+    Exercise 14.8 main class
+ */
 public class ColorSelection {
     public static void main(String[] args) {
         ColorSelectionPanel colorSelectionPanel = new ColorSelectionPanel();

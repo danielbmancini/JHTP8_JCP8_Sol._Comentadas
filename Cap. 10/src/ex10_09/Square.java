@@ -3,7 +3,7 @@ package ex10_09;
 public class Square extends TwoDimensional_Shape {
     private double x;
 
-    Square(double x) {
+    public Square(double x) {
         setX(x);
     }
 

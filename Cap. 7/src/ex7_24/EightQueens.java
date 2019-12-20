@@ -3,7 +3,7 @@ package ex7_24;
 //TODO: finish
 import java.util.Arrays;
 
-class EightQueens {
+public class EightQueens {
     static int queenCount = 0;
     private static int[][] table = new int[8][8];
     private static int tableCount = 2;
@@ -14,14 +14,15 @@ class EightQueens {
     }
 
 
-    static void insert(int a, int b) { //a = row, b = column
+    public static void insert(int a, int b) { //a = row, b = column
         table[a][b] = 1;
         diagsFill(a, b);
 
         for (int i = 0; i <= 7; i++) {
-            if(table[a][i] != 1 && table[i][b] != 1 )
-            {table[a][i] = tableCount;
-            table[i][b] = tableCount;}
+            if (table[a][i] != 1 && table[i][b] != 1) {
+                table[a][i] = tableCount;
+                table[i][b] = tableCount;
+            }
         }
     }
 
@@ -62,7 +63,7 @@ class EightQueens {
         }
     }
 
-    static int[] verifyTable(int[] random) //returns where to use insert() method
+    public static int[] verifyTable(int[] random) //returns where to use insert() method
     {
         int[] insertUsage = {0, 0};
         for (int i = 0; i < 8; i++) {
@@ -71,26 +72,26 @@ class EightQueens {
                     insertUsage[0] = i;
                     insertUsage[1] = j;
                 }
-                if(table[i][j] == 1)
+                if (table[i][j] == 1)
                     queenCount++;
             }
         }
-        if(insertUsage[0] != 7 && insertUsage[1] != 7)
-        return insertUsage;
+        if (insertUsage[0] != 7 && insertUsage[1] != 7)
+            return insertUsage;
         else
             return random;
     }
-    static void show()
-    {
-        for (int i = 0; i <8 ; i++) {
+
+    public static void show() {
+        for (int i = 0; i < 8; i++) {
             System.out.println();
-            for (int j = 0; j <8 ; j++) {
+            for (int j = 0; j < 8; j++) {
                 System.out.print(table[i][j] + " ");
             }
         }
     }
 
-    static void countQueens() {
+    public static void countQueens() {
         if (queenCount > 0)
             System.out.println("Queen count:" + queenCount + ".");
     }

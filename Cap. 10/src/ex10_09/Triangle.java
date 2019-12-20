@@ -3,7 +3,7 @@ package ex10_09;
 public class Triangle extends TwoDimensional_Shape {
     private double x; //base/side length
 
-    Triangle(double baseLength) {
+    public Triangle(double baseLength) {
         setX(baseLength);
     }
 

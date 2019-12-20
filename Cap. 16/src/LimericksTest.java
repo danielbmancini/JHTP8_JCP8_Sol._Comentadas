@@ -1,7 +1,10 @@
-package ex16_06;
+import ex16_06.Limericks;
 
 import java.util.Scanner;
 
+/*
+    Exercise 16.6 main class
+ */
 public class LimericksTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

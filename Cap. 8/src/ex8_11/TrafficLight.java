@@ -11,7 +11,7 @@ public enum TrafficLight {
         value = light;
     }
 
-    int getValue() {
+    public int getValue() {
         return value;
     }
 
