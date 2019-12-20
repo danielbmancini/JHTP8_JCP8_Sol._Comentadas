@@ -14,7 +14,7 @@ public class GUIEventsFrame extends JFrame {
     private JPanel panel;
     private JList jList;
 
-    GUIEventsFrame() {
+    public GUIEventsFrame() {
         super("Events' toString()");
         eventsTextArea.append("\n");
         button1.addActionListener(new ActionListener() {

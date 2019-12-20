@@ -1,7 +1,10 @@
-package ex15_09;
+import ex15_09.RandomTrianglesJPanel;
 
 import javax.swing.JFrame;
 
+/*
+    Exercise 15.9 main class
+ */
 public class RandomTriangles {
     public static void main(String[] args) {
         JFrame jFrame = new JFrame();

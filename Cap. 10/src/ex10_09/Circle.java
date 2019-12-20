@@ -3,7 +3,7 @@ package ex10_09;
 public class Circle extends TwoDimensional_Shape {
     private double x; //diameter
 
-    Circle(double diameter) {
+    public Circle(double diameter) {
         setX(diameter);
     }
 

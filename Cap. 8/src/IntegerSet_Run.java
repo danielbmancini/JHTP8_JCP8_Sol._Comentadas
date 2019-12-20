@@ -1,5 +1,8 @@
-package ex8_14;
+import ex8_14.IntegerSet;
 
+/*
+    Exercise 8.14 main class
+ */
 public class IntegerSet_Run {
     public static void main(String[] args) {
         IntegerSet set1 = new IntegerSet();

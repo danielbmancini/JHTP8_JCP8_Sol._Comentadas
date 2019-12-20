@@ -2,12 +2,12 @@ package ex7_19;
 
 import java.util.Scanner;
 
-class AviationTicketSystem {
+public class AviationTicketSystem {
 
     private static Scanner scan = new Scanner(System.in);
     private static int classIsFullUsage = 0;
 
-    static void exitIfFull(boolean[] assentos, boolean bool) { //exits when the plane is full
+    public static void exitIfFull(boolean[] assentos, boolean bool) { //exits when the plane is full
         if (assentos[(assentos.length / 2) - 1] && assentos[assentos.length - 1]) //if the last seat of both classes are occupied
         {
             System.out.println("\nThe plane is full.");
@@ -16,7 +16,7 @@ class AviationTicketSystem {
         }
     }
 
-    static void afterChoice(int choice, boolean[] assentos) {
+    public static void afterChoice(int choice, boolean[] assentos) {
         for (int i = 0; i < assentos.length; i++) {
             if (choice == 1 && i < assentos.length / 2 && !assentos[i]) //se a primeira classe é a referida por choice
             {
@@ -31,7 +31,7 @@ class AviationTicketSystem {
         }
     }
 
-    static void classIsFull(int choice, boolean[] transfer) {
+    public static void classIsFull(int choice, boolean[] transfer) {
         String choice2;
         exitIfFull(transfer, true);
 

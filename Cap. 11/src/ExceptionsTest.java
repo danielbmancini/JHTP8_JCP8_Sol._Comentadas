@@ -1,5 +1,10 @@
-package ex11_17;
+import ex11_17.ExceptionA;
+import ex11_17.ExceptionB;
+import ex11_17.ExceptionC;
 
+/*
+    Exercise 11.17 main class
+ */
 public class ExceptionsTest {
     public static void main(String[] args) {
         int count = 0;

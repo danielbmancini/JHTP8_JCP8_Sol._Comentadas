@@ -11,7 +11,7 @@ public class Sphere extends ThreeDimensional_Shape {
     public void setZ(double z) {
     }
 
-    Sphere(double diameter) {
+    public Sphere(double diameter) {
         setX(diameter);
     }
 

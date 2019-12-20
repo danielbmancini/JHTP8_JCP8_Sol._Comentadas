@@ -1,5 +1,6 @@
-package ex7_24;
 //TODO: finish too
+import ex7_24.EightQueens;
+
 import java.util.Scanner;
 import java.util.Random;
 public class EightQueens_run {
@@ -17,6 +18,5 @@ public class EightQueens_run {
         else
             System.exit(0);
         EightQueens.show();
-        main(args);
     }
 }

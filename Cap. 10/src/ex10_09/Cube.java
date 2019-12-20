@@ -11,7 +11,7 @@ public class Cube extends ThreeDimensional_Shape {
     public void setZ(double z) {
     }
 
-    Cube(double x) {
+    public Cube(double x) {
         setX(x);
     }
 

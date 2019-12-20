@@ -1,5 +1,8 @@
-package ex8_06;
+import ex8_06.SavingsAccount;
 
+/*
+    Exercise 8.6 main class
+ */
 public class SavingsAccount_Run {
     public static void main(String[] args) {
         SavingsAccount saver1 = new SavingsAccount(2000f);

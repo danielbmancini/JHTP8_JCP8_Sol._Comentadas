@@ -1,13 +1,16 @@
-package ex15_10;
+import ex15_06.ConcentricCirclesJPanel;
 
 import javax.swing.JFrame;
 
-public class RandomCharacters {
+/*
+    Exercise 15.6 main class
+ */
+public class ConcentricCircles {
     public static void main(String[] args) {
         JFrame jFrame = new JFrame();
-        RandomCharactersJPanel randomCharactersJPanel = new RandomCharactersJPanel();
+        ConcentricCirclesJPanel concentricCirclesJPanel = new ConcentricCirclesJPanel();
 
-        jFrame.add(randomCharactersJPanel);
+        jFrame.add(concentricCirclesJPanel);
         jFrame.setSize(500, 500);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.setVisible(true);

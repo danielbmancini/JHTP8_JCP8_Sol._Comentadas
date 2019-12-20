@@ -7,7 +7,7 @@ public class Tetrahedron extends ThreeDimensional_Shape { //regular tetrahedron
     public void setZ(double z) {
     }
 
-    Tetrahedron(double baseLength) {
+    public Tetrahedron(double baseLength) {
         setX(baseLength);
     }
 

@@ -4,8 +4,8 @@ package ex14_08;
 import javax.swing.*;
 import java.awt.*;
 
-class ColorSelectionPanel extends JPanel {
-    ColorSelectionPanel() {
+public class ColorSelectionPanel extends JPanel {
+    public ColorSelectionPanel() {
         setLayout(new GridBagLayout());
         GridBagConstraints gridBagConstraints = new GridBagConstraints();
 

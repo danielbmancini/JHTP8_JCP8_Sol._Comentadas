@@ -2,20 +2,27 @@ package ex7_21;
 
 import java.util.Arrays;
 
-class TurtleGraph {
-    private static int floorLength = TurtleGraph_run.returnFloorLength();
-    private static boolean pen_state;
-    private static int[] current_block = {0, 0}; //should be valued at most (19,19)
-    private static Integer direction = 1; // from a same frame of reference, 0: up, 1: right, 2: down, 3: left
-    private static int[][] floor = new int[floorLength][floorLength];
+public class TurtleGraph {
+    private int floorLength;
+    private boolean pen_state;
+    private int[] current_block = {0, 0}; //should be valued at most (19,19)
+    private Integer direction = 1; // from a same frame of reference, 0: up, 1: right, 2: down, 3: left
+    private int[][] floor;
 
-    static {
+    public TurtleGraph(int length) {
+        super();
+        floorLength = length;
+        fillFloor();
+    }
+
+    private void fillFloor() {
+        floor = new int[floorLength][floorLength];
         for (int i = 0; i < floorLength; i++)
             Arrays.fill(floor[i], 0);
     }
 
 
-    private static void fillFloor(int i, int j) {
+    private void fillFloor(int i, int j) {
         switch (direction) {
             case 0:
                 while (i <= j) {
@@ -43,15 +50,15 @@ class TurtleGraph {
         }
     }
 
-    static void one() {
+    public void one() {
         pen_state = false;
     }
 
-    static void two() {
+    public void two() {
         pen_state = true;
     }
 
-    static void three()//right
+    public void three()//right
     {
         if (direction == 3)
             direction = 0;
@@ -63,7 +70,7 @@ class TurtleGraph {
         }
     }
 
-    static void four()//left
+    public void four()//left
     {
         if (direction == 0)
             direction = 3;
@@ -71,7 +78,7 @@ class TurtleGraph {
             direction--;
     }
 
-    static void five(int distance) //convoluted
+    public void five(int distance) //convoluted
     {
         switch (direction) {
             case 0:
@@ -112,7 +119,7 @@ class TurtleGraph {
         }
     }
 
-    static void six() {
+    public void six() {
         for (int i = 0; i < floorLength; i++)
             for (int j = 0; j < floor[i].length; j++) {
                 System.out.print(floor[i][j] + "  ");

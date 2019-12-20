@@ -1,5 +1,8 @@
-package ex8_12;
+import ex8_12.Complex;
 
+/*
+    Exercise 8.12 main class
+ */
 public class Complex_Run {
     public static void main(String[] args) {
         Complex number1 = new Complex(2f, 3f);

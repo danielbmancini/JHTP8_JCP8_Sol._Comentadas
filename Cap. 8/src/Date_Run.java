@@ -1,5 +1,9 @@
-package ex8_15;
+import ex8_15.Date;
+import ex8_15.month;
 
+/*
+    Exercise 8.15 main class
+ */
 public class Date_Run {
     public static void main(String[] args) {
         Date aDate = new Date(month.September, 11, 2019);

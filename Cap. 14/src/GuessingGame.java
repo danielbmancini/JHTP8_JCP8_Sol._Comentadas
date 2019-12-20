@@ -1,7 +1,10 @@
-package ex14_14;
+import ex14_14.GuessingGamePanel;
 
 import javax.swing.JFrame;
 
+/*
+    Exercise 14.14 main class
+ */
 public class GuessingGame {
     public static void main(String[] args) {
         JFrame guessingGameFrame = new JFrame("Guessing Game");

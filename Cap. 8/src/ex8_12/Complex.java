@@ -1,6 +1,6 @@
 package ex8_12;
 
-class Complex {
+public class Complex {
     private float a;
     private float b;
 
@@ -9,7 +9,7 @@ class Complex {
         b = 0f;
     }
 
-    Complex(float a, float b) {
+    public Complex(float a, float b) {
         this.a = a;
         this.b = b;
     }
@@ -22,15 +22,15 @@ class Complex {
         return b;
     }
 
-    Complex sumWith(Complex second) {
+    public Complex sumWith(Complex second) {
         return new Complex((a + second.getA()), (b + second.getB()));
     }
 
-    Complex subtractWith(Complex second) {
+    public Complex subtractWith(Complex second) {
         return new Complex((a - second.getA()), (b - second.getB()));
     }
 
-    String printThisNumber() {
+    public String printThisNumber() {
         return String.format("(%f, %f)", getA(), getB());
     }
 
