@@ -41,7 +41,6 @@ public class Limericks {
 
     //3 different limerick structures vectors referencing getReferences()' references.
     //each sub array corresponds to one verse.
-    //this is a structuralist approach, you could say.
     private static int[][] limerickStructure_1 = {{1, 10, 2, 0, 1, 11, 10},
             {9, 3, 1, 11, 10},
             {8, 2, 11, 0, 10},
