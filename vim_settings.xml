@@ -2,6 +2,14 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -59,6 +67,165 @@
         <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/Capitulo4.java" timestamp="1583894323614">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/removeIf.java" timestamp="1583896261526">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="63" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586511711028">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/List_Sort.java" timestamp="1583896297151">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithms_Sedgewick_4th_Edition_Solutions/1/src/s1_1/TableInput.java" timestamp="1583887584763">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/TowersOfHanoi.java" timestamp="1586271619543">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/GCD.java" timestamp="1586303864650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Algorithms_Sedgewick_4th_Edition_Solutions/1/src/IndentedBinarySearch.java" timestamp="1583888750740">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/FractalJPanel.java" timestamp="1586277713894">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586553485778">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/sort_Comparator.java" timestamp="1583896093062">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursionVisualization.java" timestamp="1586305959061">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="7" column="74" />
+        <mark key="." line="7" column="74" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/Capitulo2.java" timestamp="1583894271431">
+        <mark key="[" line="12" column="75" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursivePalindromeTesting.java" timestamp="1586309484363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveReverseString.java" timestamp="1586503971646">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveMinimum.java" timestamp="1586505318710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/EightQueens.java" timestamp="1586502258335">
+        <mark key="[" line="40" column="94" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/HuntWitches.java" timestamp="1583894058468">
+        <mark key="[" line="0" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="65" column="11" filename="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/Cap. 8/src/ex8_15/Date.java" />
+      <jump line="68" column="55" filename="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/Cap. 16/src/ex16_06/Limericks.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/IdeaProjects/Java IO O'reilly/c2/src/AsciiArray.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHJhd0ZyYWN0YWwobGV2ZWwgLTEseEQseUQsKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly9UT0RPOiBkbwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9UT0RPOiBkbwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNoYXJbXVtdIG1hemUgPQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICB7IyAjICMgIyAjICMgIyAjICMgIyAjICMKICAgICAgICAgICAgIyAuIC4gLiAjIC4gLiAuIC4gLiAuICMKICAgICAgICAgICAgLiAuICMgLiAjIC4gIyAjICMgIyAuICMKICAgICAgICAgICAgIyAjICMgLiAjIC4gLiAuIC4gIyAuICMKICAgICAgICAgICAgIyAuIC4gLiAuICMgIyAjIC4gIyAuIC4KICAgICAgICAgICAgIyAjICMgIyAuICMgLiAjIC4gIyAuICMKICAgICAgICAgICAgIyAuIC4gIyAuICMgLiAjIC4gIyAuICMKICAgICAgICAgICAgIyAjIC4gIyAuICMgLiAjIC4gIyAuICMKICAgICAgICAgICAgIyAuIC4gLiAuIC4gLiAuIC4gIyAuICMKICAgICAgICAgICAgIyAjICMgIyAjICMgLiAjICMgIyAuICMKICAgICAgICAgICAgIyAuIC4gLiAuIC4gLiAjIC4gLiAuICMKICAgICAgICAgICAgIyAjICMgIyAjICwjICwjICwjICwjICwjICwjICwjfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5SYW5kb207Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5SYW5kb20gQXJyYXk6ICVzIixBcnJheXMudG9TdHJpbmcocmFuZG9tQXJyYXkpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuZmlsbChyYW5kb21BcnJheSxyYW4pOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>e.printStackTrace();</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
