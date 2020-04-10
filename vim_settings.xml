@@ -123,10 +123,11 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586553590378">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586555918263">
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
@@ -184,37 +185,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhd0ZyYWN0YWwobGV2ZWwgLTEseEQseUQsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY2hhcmFjdGVyICE9ICcjJyAmJiBjaGFyYWN0ZXIgIT0gJyonICYmIGNoYXJhY3RlciAhPSAnTycpewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9UT0RPOiBkbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7fQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9UT0RPOiBkbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNoYXJbXVtdIG1hemUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICB7IyAjICMgIyAjICMgIyAjICMgIyAjICMKICAgICAgICAgICAgIyAuIC4gLiAjIC4gLiAuIC4gLiAuICMKICAgICAgICAgICAgLiAuICMgLiAjIC4gIyAjICMgIyAuICMKICAgICAgICAgICAgIyAjICMgLiAjIC4gLiAuIC4gIyAuICMKICAgICAgICAgICAgIyAuIC4gLiAuICMgIyAjIC4gIyAuIC4KICAgICAgICAgICAgIyAjICMgIyAuICMgLiAjIC4gIyAuICMKICAgICAgICAgICAgIyAuIC4gIyAuICMgLiAjIC4gIyAuICMKICAgICAgICAgICAgIyAjIC4gIyAuICMgLiAjIC4gIyAuICMKICAgICAgICAgICAgIyAuIC4gLiAuIC4gLiAuIC4gIyAuICMKICAgICAgICAgICAgIyAjICMgIyAjICMgLiAjICMgIyAuICMKICAgICAgICAgICAgIyAuIC4gLiAuIC4gLiAjIC4gLiAuICMKICAgICAgICAgICAgIyAjICMgIyAjICwjICwjICwjICwjICwjICwjICwjfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5SYW5kb207Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobWF6ZUFycmF5W29wZXJhdG9yXVtwb3NpdGlvblsxXV0gIT0gJyMnICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5SYW5kb20gQXJyYXk6ICVzIixBcnJheXMudG9TdHJpbmcocmFuZG9tQXJyYXkpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSYW5kb20gcmFuZG9tID0gbmV3IFJhbmRvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuZmlsbChyYW5kb21BcnJheSxyYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBtYXplQXJyYXlbcG9zaXRpb25bMF0gLSAxXVtwb3NpdGlvblsxXSAhPSAoJ08nIHx8ICcjJyB8fCAnKicpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHBvc2l0aW9uKXsK</text>
       </register>
       <register name="-" type="4">
         <text>e.printStackTrace();</text>
