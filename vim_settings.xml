@@ -123,11 +123,10 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586557094322">
-        <mark key="[" line="26" column="82" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586557601441">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
@@ -188,34 +187,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYoY2hhcmFjdGVyICE9ICcjJyAmJiBjaGFyYWN0ZXIgIT0gJyonICYmIGNoYXJhY3RlciAhPSAnTycpewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7fQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSB0ZXN0ID0gezIsLTF9Owo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7fQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSB0ZXN0ID0gezIsLTF9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLmNvbXBhcmUoaW5pdGlhbFBvc2l0aW9uLCB0ZXN0KSA9PSAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobWF6ZUFycmF5W29wZXJhdG9yXVtwb3NpdGlvblsxXV0gIT0gJyMnICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBtYXplQXJyYXlbcG9zaXRpb25bMF0gLSAxXVtwb3NpdGlvblsxXSAhPSAoJ08nIHx8ICcjJyB8fCAnKicpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobWF6ZUFycmF5W29wZXJhdG9yXVtwb3NpdGlvblsxXV0gIT0gJyMnICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHBvc2l0aW9uKXsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e.printStackTrace();</text>
