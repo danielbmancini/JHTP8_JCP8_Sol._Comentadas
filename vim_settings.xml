@@ -123,11 +123,11 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586566679858">
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="78" column="42" />
-        <mark key="." line="78" column="41" />
-        <mark key="^" line="78" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586567765731">
+        <mark key="[" line="92" column="75" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
@@ -190,8 +190,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjaGFyIGNoYXJhY3RlcjsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGNoYXJhY3RlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>/ || Arrays.equals(thisPosition, initialPosition)) {</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbnRbXSBvcGVyYXRvcnMxID0gb3BlcmF0b3JGdW5jdGlvbihwb3NpdGlvblsxXSk7Cg==</text>
@@ -218,7 +218,7 @@
         <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>e.printStackTrace();</text>
+        <text>/ || Arrays.equals(thisPosition, initialPosition)) {</text>
       </register>
     </registers>
   </component>
