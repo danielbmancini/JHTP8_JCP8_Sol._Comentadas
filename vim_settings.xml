@@ -82,7 +82,7 @@
         <mark key="]" line="14" column="63" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586576449708">
+      <file name="/Dummy.txt" timestamp="1586580198836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,12 +92,6 @@
         <mark key="]" line="15" column="16" />
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Algorithms_Sedgewick_4th_Edition_Solutions/1/src/s1_1/TableInput.java" timestamp="1583887584763">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/TowersOfHanoi.java" timestamp="1586271619543">
         <mark key="[" line="20" column="18" />
@@ -123,11 +117,10 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586576136610">
-        <mark key="[" line="66" column="87" />
-        <mark key="]" line="115" column="115" />
-        <mark key="." line="115" column="114" />
-        <mark key="^" line="115" column="115" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586580139334">
+        <mark key="[" line="56" column="76" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
@@ -162,6 +155,9 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586580556048">
+        <mark key="[" line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveMinimum.java" timestamp="1586505318710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -175,7 +171,7 @@
       <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/HuntWitches.java" timestamp="1583894058468">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1586573971283">
+      <file name="/fragment.java" timestamp="1586580546752">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -191,34 +187,34 @@
         <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcmVjdFBhdGguYXBwZW5kKEFycmF5cy50b1N0cmluZyh0aGlzUG9zaXRpb24pKS5hcHBlbmQoIiB0b1xuIik7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcmVjdFBhdGguYXBwZW5kKEFycmF5cy50b1N0cmluZyh0aGlzUG9zaXRpb24pKS5hcHBlbmQoIiB0b1xuIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW4lcyB0byIsIEFycmF5cy50b1N0cmluZyh0aGlzUG9zaXRpb24pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiVuRGlyZWN0IHBhdGggdG8gc29sdmUgdGhpcyBtYXplOiVuJXMiLGRpcmVjdFBhdGgudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRNYXplQXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0UGF0aC5hcHBlbmQoQXJyYXlzLnRvU3RyaW5nKHRoaXNQb3NpdGlvbikpLmFwcGVuZCgiLiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC8vICAgICAgIGRlbGluZWF0ZVBhdGgoaW5pdGlhbFBvc2l0aW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyonOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsaW5lYXRlUGF0aChnZW5lcmF0ZU5ld1Bvc2l0aW9uKHRoaXNQb3NpdGlvbiwgbnVsbCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcqJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiVuJXMgdG8iLCBBcnJheXMudG9TdHJpbmcodGhpc1Bvc2l0aW9uKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/ || Arrays.equals(thisPosition, initialPosition)) {</text>
