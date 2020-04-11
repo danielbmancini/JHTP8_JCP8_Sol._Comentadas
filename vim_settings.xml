@@ -123,11 +123,11 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586567765731">
-        <mark key="[" line="92" column="75" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586576136610">
+        <mark key="[" line="66" column="87" />
+        <mark key="]" line="115" column="115" />
+        <mark key="." line="115" column="114" />
+        <mark key="^" line="115" column="115" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
@@ -175,6 +175,9 @@
       <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/HuntWitches.java" timestamp="1583894058468">
         <mark key="[" line="0" column="26" />
       </file>
+      <file name="/fragment.java" timestamp="1586573971283">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="65" column="11" filename="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/Cap. 8/src/ex8_15/Date.java" />
@@ -185,37 +188,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hemVBcnJheVt0aGlzUG9zaXRpb25bMF1dW3RoaXNQb3NpdGlvblsxXV0gPSAnLic7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGNoYXJhY3RlcjsK</text>
+        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/ || Arrays.equals(thisPosition, initialPosition)) {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBvcGVyYXRvcnMxID0gb3BlcmF0b3JGdW5jdGlvbihwb3NpdGlvblsxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW4lcyB0byIsIEFycmF5cy50b1N0cmluZyh0aGlzUG9zaXRpb24pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBuZXdQb3NpdGlvbiA9IG5ldyBpbnRbMl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRNYXplQXJyYXkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXdQb3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyonOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBvcGVyYXRvcnNBcnJheTEgPSB7cG9zaXRpb25bMV0gKyAxLCBwb3NpdGlvblsxXSAtIDF9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBvcGVyYXRvcnNBcnJheTAgPSB7cG9zaXRpb25bMF0gKyAxLCBwb3NpdGlvblswXSAtIDF9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcqJzsK</text>
       </register>
       <register name="-" type="4">
         <text>/ || Arrays.equals(thisPosition, initialPosition)) {</text>
