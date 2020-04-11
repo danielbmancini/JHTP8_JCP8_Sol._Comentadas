@@ -123,10 +123,11 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586561593186">
-        <mark key="[" line="68" column="56" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586564227053">
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="17" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
@@ -184,37 +185,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY2hhcmFjdGVyICE9ICcjJyAmJiBjaGFyYWN0ZXIgIT0gJyonICYmIGNoYXJhY3RlciAhPSAnTycpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcuJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhciBjaGFyYWN0ZXIgPSBtYXplQXJyYXlbcG9zaXRpb25bMF1dW29wZXJhdG9yXTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyonOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhciBjaGFyYWN0ZXIgPSBtYXplQXJyYXlbcG9zaXRpb25bMF1dW29wZXJhdG9yXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcuJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcjJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcqJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZVRyYW5zdmVyc2FsKGxhc3RQb3NpdGlvbiwgdGhpc1Bvc2l0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRNYXplQXJyYXkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W2ZpbmFsUG9zaXRpb25bMF1dW2ZpbmFsUG9zaXRpb25bMV1dID0gJyonOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICcqJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBuZXh0UG9zaXRpb24gPSBuZXdQb3NpdGlvbih0aGlzUG9zaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKEFycmF5cy5lcXVhbHMobCwgbmV4dFBvc2l0aW9uKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld1BvcyA9IG5ld1Bvc0R1bW15Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJhY3RlciA9PSAnLicgJiYgIUFycmF5cy5lcXVhbHMobmV3UG9zRHVtbXksIGxhc3RQb3NpdGlvbikpIHsKICAgICAgICAgICAgICAgIG5ld1BvcyA9IG5ld1Bvc0R1bW15Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W3RoaXNQb3NpdGlvblswXV1bdGhpc1Bvc2l0aW9uWzFdXSA9ICdPJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e.printStackTrace();</text>
