@@ -26,9 +26,6 @@ public class MazeRecursiveBacktracking {
         System.out.println("Recursive backtracking process to solve this maze:");
         mazeTraversal(initialPosition, null, false);
 
-        System.out.println("\nDirect path to solve this maze:");
-        delineatePath(initialPosition);
-
     }
 
     private static void processMazeString(String mazeString) //processes mazeString into mazeArray
@@ -57,7 +54,6 @@ public class MazeRecursiveBacktracking {
                 mazeTraversal(nextPosition, thisPosition, true);
             } else {
                 mazeArray[thisPosition[0]][thisPosition[1]] = '.';
-
                 mazeTraversal(nextPosition, thisPosition, false);
             }
         }
@@ -112,14 +108,4 @@ public class MazeRecursiveBacktracking {
         return (sectionsCounter > 1);
     }
 
-    private static void delineatePath(int[] thisPosition) {/*Generates direct path to the exit, the algorithm has already
-                                                           blocked off the non-direct solutions by the time this method is called*/
-        if (Arrays.equals(thisPosition, finalPosition))
-            System.out.printf("%n%s.", Arrays.toString(thisPosition));
-        else {
-            mazeArray[thisPosition[0]][thisPosition[1]] = '#';
-            System.out.printf("%n%s to", Arrays.toString(thisPosition));
-            delineatePath(generateNewPosition(thisPosition, null));
-        }
-    }
 }
