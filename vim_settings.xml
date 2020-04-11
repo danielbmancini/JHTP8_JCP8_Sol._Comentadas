@@ -155,8 +155,8 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586581153699">
-        <mark key="[" line="14" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586642579924">
+        <mark key="[" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveMinimum.java" timestamp="1586505318710">
         <mark key="[" line="0" column="0" />
@@ -187,34 +187,34 @@
         <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcmVjdFBhdGguYXBwZW5kKEFycmF5cy50b1N0cmluZyh0aGlzUG9zaXRpb24pKS5hcHBlbmQoIiB0b1xuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCBOOyBpKyspIHsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpcmVjdFBhdGguYXBwZW5kKEFycmF5cy50b1N0cmluZyh0aGlzUG9zaXRpb24pKS5hcHBlbmQoIiB0b1xuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCBOOyBpKyspIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiVuRGlyZWN0IHBhdGggdG8gc29sdmUgdGhpcyBtYXplOiVuJXMiLGRpcmVjdFBhdGgudG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyZWN0UGF0aC5hcHBlbmQoQXJyYXlzLnRvU3RyaW5nKHRoaXNQb3NpdGlvbikpLmFwcGVuZCgiLiIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IC8vICAgICAgIGRlbGluZWF0ZVBhdGgoaW5pdGlhbFBvc2l0aW9uKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjaGFyIDopIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGNoYXIgOikgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9DaGFyQXJyYXkoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic3RyaW5nKE4qaSArIGksTippIC0gMSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF6ZUFycmF5W2ldID0gbWF6ZVN0cmluZy5yZXBsYWNlQWxsKCIgIiwgIiIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsaW5lYXRlUGF0aChnZW5lcmF0ZU5ld1Bvc2l0aW9uKHRoaXNQb3NpdGlvbiwgbnVsbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE4gOyBpKyspCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiVuJXMgdG8iLCBBcnJheXMudG9TdHJpbmcodGhpc1Bvc2l0aW9uKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/ || Arrays.equals(thisPosition, initialPosition)) {</text>
