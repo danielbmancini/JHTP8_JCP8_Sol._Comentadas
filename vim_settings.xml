@@ -155,11 +155,10 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586837186554">
-        <mark key="[" line="34" column="55" />
-        <mark key="]" line="34" column="53" />
-        <mark key="." line="34" column="52" />
-        <mark key="^" line="34" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586837867935">
+        <mark key="[" line="90" column="31" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveMinimum.java" timestamp="1586505318710">
         <mark key="[" line="0" column="0" />
@@ -187,37 +186,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXplQXJyYXlbdGhpc1Bvc2l0aW9uWzBdXVt0aGlzUG9zaXRpb25bMV1dID0gJyMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic3RyaW5nKDEsTi0xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiBsaXN0ID0gQXJyYXlzLmFzTGlzdChpbml0aWFsUG9zLGZpbmFsUG9zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIWspCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiBsaXN0ID0gQXJyYXlzLmFzTGlzdChpbml0aWFsUG9zLGZpbmFsUG9zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIWspCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QyID0gbGlzdC5mb3JFYWNoOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgayA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZEFsbChuZXcgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic3RyaW5nKDEsTi0xKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiBwb3NpdGlvbkxpc3QgPSBuZXcgTGlzdDxpbnRbXT4oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludE1hemVBcnJheSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGIgKz0gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbFBvc2l0aW9uID0gZmluYWxQb3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGludCBiIDogYSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsUG9zaXRpb24gPSBpbml0aWFsUG9zOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50W10gYSA6IG5ldyBpbnRbXVtde2luaXRpYWxQb3MsZmluYWxQb3N9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5GdW5jdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PGludFtdPiBsaXN0ID0gQXJyYXlzLmFzTGlzdChpbml0aWFsUG9zLGZpbmFsUG9zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5Db25zdW1lcjsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QyID0gbGlzdC5mb3JFYWNoOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiYgKG5leHRQb3NbMF0gIT0gMCAmJiBuZXh0UG9zWzBdICE9IE4gLTEp</text>
