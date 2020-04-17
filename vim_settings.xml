@@ -71,12 +71,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/Capitulo4.java" timestamp="1583894323614">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="8" column="50" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/removeIf.java" timestamp="1583896261526">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="63" />
@@ -107,6 +101,12 @@
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSort.java" timestamp="1587124857779">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="39" column="9" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/FractalJPanel.java" timestamp="1586277713894">
         <mark key="[" line="43" column="5" />
@@ -142,11 +142,6 @@
         <mark key="^" line="7" column="74" />
         <mark key="." line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/Capitulo2.java" timestamp="1583894271431">
-        <mark key="[" line="12" column="75" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursivePalindromeTesting.java" timestamp="1586309484363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="47" />
@@ -175,6 +170,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
+        <mark key="[" line="7" column="74" />
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1586865016021">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,40 +189,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c3Vhcmlvcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5BcnJheTogJXMiLCBBcnJheXMudG9TdHJpbmcoc29ydEFycmF5LmRhdGEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c3Vhcmlvcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5BcnJheTogJXMiLCBBcnJheXMudG9TdHJpbmcoc29ydEFycmF5LmRhdGEpKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGFzdFBvc2l0aW9uOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigic3BsaXQ6ICAgICAgIiArIHN1YkFycmF5KGxvLGhpKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiICAgICAgICAiICsgc3ViQXJyYXkobG8sbWlkZGxlMSkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgICAgICAgIisgc3ViQXJyYXkobWlkZGxlMixoaSkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzb3J0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXdQb3M7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJhY3RlciA9PSAnLicgJiYgIUFycmF5cy5lcXVhbHMobmV3UG9zLCBsYXN0UG9zaXRpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGFzdFBvc2l0aW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhciBjaGFyYWN0ZXIgPSBtYXplQXJyYXlbbmV3UG9zWzBdXVtuZXdQb3NbMV1dOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gbmV3UG9zID0ge3Bvc2l0aW9uWzBdLCBvcGVyYXRvcn07Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBvcGVyYXRvciA6IG9wZXJhdG9yczEpIHsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXdQb3M7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoYXJhY3RlciA9PSAnLicgJiYgIUFycmF5cy5lcXVhbHMobmV3UG9zLCBsYXN0UG9zaXRpb24pKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hhciBjaGFyYWN0ZXIgPSBtYXplQXJyYXlbbmV3UG9zWzBdXVtuZXdQb3NbMV1dOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>//moves from row to row (down and up)</text>
+        <text>private</text>
       </register>
     </registers>
   </component>
