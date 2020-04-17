@@ -71,11 +71,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/removeIf.java" timestamp="1583896261526">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="63" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1586832588236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -95,6 +90,12 @@
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587147399766">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/GCD.java" timestamp="1586303864650">
         <mark key="[" line="0" column="0" />
@@ -174,11 +175,11 @@
       <file name="/fragment.java" timestamp="1586865016021">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BubbleSort.java" timestamp="1587136627954">
-        <mark key="[" line="13" column="141" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BubbleSort.java" timestamp="1587147384706">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -193,37 +194,37 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5BcnJheTogJXMiLCBBcnJheXMudG9TdHJpbmcoc29ydEFycmF5LmRhdGEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gYXJyYXk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBCdWJibGVTb3J0IHsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gYXJyYXk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//this instruction runs (size) times, making ((n-1) + (n-2) + ... + 1) = n(n-1)/2 comparations.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50W10gYXJyYXk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnViYmxlU29ydChpbnQgc2l6ZSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigic3BsaXQ6ICAgICAgIiArIHN1YkFycmF5KGxvLGhpKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiICAgICAgICAiICsgc3ViQXJyYXkobG8sbWlkZGxlMSkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiAgICAgICAgIisgc3ViQXJyYXkobWlkZGxlMixoaSkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzb3J0KCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQnViYmxlU29ydChpbnQgc2l6ZSl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>//this instruction runs (size) times, making ((n-1) + (n-2) + ... + 1) = n(n-1)/2 comparations.</text>
       </register>
     </registers>
   </component>
