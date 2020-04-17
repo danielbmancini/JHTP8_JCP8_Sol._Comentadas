@@ -120,6 +120,12 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/List_Sort2.java" timestamp="1586865125884">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/Fractal.java" timestamp="1586278087768">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -169,10 +175,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/HuntWitches.java" timestamp="1583894058468">
-        <mark key="[" line="0" column="26" />
-      </file>
-      <file name="/fragment.java" timestamp="1586832691188">
+      <file name="/fragment.java" timestamp="1586865016021">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -185,13 +188,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludE1hemVBcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1c3Vhcmlvcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB1c3Vhcmlvcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbGFzdFBvc2l0aW9uOwo=</text>
