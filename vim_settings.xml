@@ -79,7 +79,7 @@
       <file name="/a.dummy" timestamp="1586839928472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587220434116">
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587222828647">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="24" />
@@ -102,12 +102,6 @@
         <mark key="]" line="33" column="8" />
         <mark key="^" line="33" column="8" />
         <mark key="." line="33" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/FractalJPanel.java" timestamp="1586277713894">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="42" column="41" />
-        <mark key="^" line="42" column="41" />
-        <mark key="." line="42" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586842407282">
         <mark key="[" line="82" column="76" />
@@ -171,6 +165,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587224455174">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="37" />
+      </file>
       <file name="/fragment.java" timestamp="1586865016021">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,37 +190,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5BcnJheTogJXMiLCBBcnJheXMudG9TdHJpbmcoc29ydEFycmF5LmRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkQXJyYXkuYWRkKGFycmF5LmdldCgwKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1Y2tldHMuZ2V0KGludGVnZXIvMTApKTt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFycmF5LmdldCgwKSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1Y2tldHMuZ2V0KGludGVnZXIvMTApKTt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFycmF5LmdldCgwKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwIDsgaSsrKQo=</text>
+        <text encoding="base64">ICAgICAgICBzb3J0ZWRBcnJheS47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBzb3J0ZWQgPSBuZXcgaW50W2RhdGEubGVuZ3RoXTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkQXJyYXkuYWRkKGFycmF5LmdldCgwKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkKGludGVnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkuZm9yRWFjaChpbnRlZ2VyIC0+ICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVja2V0c1soaW50KSBNYXRoLmNlaWwoaW50ZWdlciAvIDEwLjApXQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaW50IGludGVnZXIgOiBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJheVtqXSA9IHRlbXA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFycmF5TGlzdDxJbnRlZ2VyPltdIGJ1Y2tldHMgPSBuZXcgQXJyYXlMaXN0PD4oKVsxOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnJheVtpXSA9IGFycmF5W2pdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdGVtcCA9IGFycmF5W2ldOwo=</text>
       </register>
       <register name="-" type="4">
         <text>buckets.forEach(;</text>
