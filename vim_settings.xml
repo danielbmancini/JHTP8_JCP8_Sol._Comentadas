@@ -79,13 +79,7 @@
       <file name="/a.dummy" timestamp="1586839928472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/TowersOfHanoi.java" timestamp="1586271619543">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587147399766">
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587220434116">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="24" />
@@ -103,6 +97,12 @@
         <mark key="^" line="39" column="9" />
         <mark key="." line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/RecursiveBinarySearch.java" timestamp="1587220832672">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 18/src/FractalJPanel.java" timestamp="1586277713894">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="42" column="41" />
@@ -115,11 +115,10 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587218515695">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587220453049">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/List_Sort2.java" timestamp="1586865125884">
         <mark key="[" line="16" column="39" />
@@ -194,34 +193,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJW5BcnJheTogJXMiLCBBcnJheXMudG9TdHJpbmcoc29ydEFycmF5LmRhdGEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwIDsgaSsrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1Y2tldHMuZ2V0KGludGVnZXIvMTApKTt9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>buckets.forEach(;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1Y2tldHMuZ2V0KGludGVnZXIvMTApKTt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBzb3J0ZWQgPSBuZXcgaW50W2RhdGEubGVuZ3RoXTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwIDsgaSsrKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBzb3J0ZWQgPSBuZXcgaW50W2RhdGEubGVuZ3RoXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkKGludGVnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVja2V0c1soaW50KSBNYXRoLmNlaWwoaW50ZWdlciAvIDEwLjApXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkKGludGVnZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaW50IGludGVnZXIgOiBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVja2V0c1soaW50KSBNYXRoLmNlaWwoaW50ZWdlciAvIDEwLjApXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFycmF5TGlzdDxJbnRlZ2VyPltdIGJ1Y2tldHMgPSBuZXcgQXJyYXlMaXN0PD4oKVsxOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGludGVnZXIgOiBkYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFycmF5TGlzdDxJbnRlZ2VyPltdIGJ1Y2tldHMgPSBuZXcgQXJyYXlMaXN0PD4oKVsxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>buckets.forEach(;</text>
