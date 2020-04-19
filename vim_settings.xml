@@ -165,11 +165,10 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587307706069">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587309848502">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1586865016021">
         <mark key="[" line="0" column="0" />
@@ -193,34 +192,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmRleCsrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FwKCsraW5kZXgsIGopOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MSA9IGxvOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FwKCsraW5kZXgsIGopOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MSA9IGxvOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaXZvdCA+IGFycmF5W2pdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IGxvICsgMTsgaiA8IGhpOyBqKyspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN3YXAoaixpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoYXJyYXlbal0gPCBhcnJheVtpXSl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4ID0gaTt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gaSArIDE7IGogPCBoaTsgaisrKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN3YXAoaW5kZXgsaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChhcnJheVtpXSA+IHBpdm90KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYocGl2b3QgPCBhcnJheVtpXSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IGxvOyBpID49IDAgOyBpLS0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gaW5kZXggLSAxOyBpID49IGxvOyBpLS0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gbG87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHBpdm90ID0gYXJyYXlbbG9dOwo=</text>
       </register>
       <register name="-" type="4">
         <text>buckets.forEach(;</text>
