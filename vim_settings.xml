@@ -165,10 +165,10 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587298658075">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587299196270">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1586865016021">
         <mark key="[" line="0" column="0" />
@@ -189,37 +189,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkQXJyYXkuYWRkKGFycmF5LmdldCgwKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlbnN3YXBwaW5nICglZCwlZCkiLGksbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGogPSBsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGogPSBsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlbnN3YXBwaW5nICglZCwlZCkiLGksbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gbG87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGogPSBsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmRleCA9IGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGo7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4ID0gajsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gbG87Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmRleCA9IGk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgayA9IGhpOyBrID4gbG87IC0taykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4ID0gajsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gbG87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dhcChsbyxpbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgayA9IGhpOyBrID4gbG87IC0taykK</text>
       </register>
       <register name="-" type="4">
         <text>buckets.forEach(;</text>
