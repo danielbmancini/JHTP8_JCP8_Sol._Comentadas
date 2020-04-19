@@ -21,7 +21,7 @@ public class QuickSort {
             int left = lo;
             while (right > left) { //swaps lesser elements to left of pivot and greater to the right
                 while (left < hi && array[left] <= pivot) left++;
-                while (array[right] > pivot) right--;
+                while (right > lo && array[right] > pivot) right--;
                 if (right > left)
                     swap(right, left); //here, array[right] should be in the left partition and array[left] in the right
             }
