@@ -80,6 +80,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/GCD.java" timestamp="1586303864650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSort.java" timestamp="1587124857779">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -103,34 +109,23 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/CollectionTest.java" timestamp="1587384602795">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/List_Sort2.java" timestamp="1586865125884">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="17" column="46" />
         <mark key="^" line="14" column="34" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587467664515">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="10" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursionVisualization.java" timestamp="1586305959061">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="7" column="74" />
+        <mark key="." line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/ListTest.java" timestamp="1587386389883">
-        <mark key="[" line="41" column="38" />
-        <mark key="]" line="41" column="38" />
-        <mark key="." line="41" column="37" />
-        <mark key="^" line="41" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/UsingTOArray.java" timestamp="1587466662551">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursivePalindromeTesting.java" timestamp="1586309484363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="47" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveReverseString.java" timestamp="1586503971646">
         <mark key="[" line="9" column="24" />
@@ -148,6 +143,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/EightQueens.java" timestamp="1586502258335">
+        <mark key="[" line="40" column="94" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
         <mark key="[" line="7" column="74" />
@@ -171,34 +171,6 @@
       </file>
     </filemarks>
     <jumps />
-  </component>
-  <component name="VimRegisterSettings">
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rpb24ucmVtb3ZlSWYoc3RyaW5nQ29sbGVjdGlvbi5jb250YWlucyhpdGVyYXRvci5uZXh0KCkpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHByZWRpY2F0ZSA9IHN0cmluZ0NvbGxlY3Rpb24uY29udGFpbnMoaXRlcmF0b3IubmV4dCgpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
-      </register>
-    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
