@@ -23,7 +23,7 @@ public class BucketSort {
         for (int integer : data) //fills buckets
             buckets.get(integer / 10)
                     .add(integer);
-        buckets.forEach(bucket -> bucket.sort(Comparator.naturalOrder())); //sorts buckets individually
+        buckets.forEach(Collections::sort); //sorts buckets individually
         buckets.forEach(sorted::addAll); //concatenates buckets 0 to (size)
         return sorted;
     }
