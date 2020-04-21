@@ -92,11 +92,11 @@
         <mark key="^" line="33" column="8" />
         <mark key="." line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586842407282">
-        <mark key="[" line="82" column="76" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/DeckOfCards.java" timestamp="1587476501331">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="47" column="5" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587467854559">
         <mark key="[" line="25" column="73" />
@@ -179,34 +179,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text>This reverts commit 990f680f</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmV2ZXJ0ICJJQy0yMDIwLjEgPGRhbmllbEBkYW5pZWwtUE9TLUVDSUc0MUJTIFVwZGF0ZSB2aW1fc2V0dGluZ3MueG1sLCBkZWJ1Z2dlci54bWwiCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
+        <text>This reverts commit 990f680f</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rpb24ucmVtb3ZlSWYoc3RyaW5nQ29sbGVjdGlvbi5jb250YWlucyhpdGVyYXRvci5uZXh0KCkpKTsK</text>
+        <text encoding="base64">UmV2ZXJ0ICJJQy0yMDIwLjEgPGRhbmllbEBkYW5pZWwtUE9TLUVDSUc0MUJTIFVwZGF0ZSB2aW1fc2V0dGluZ3MueG1sLCBkZWJ1Z2dlci54bWwiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHByZWRpY2F0ZSA9IHN0cmluZ0NvbGxlY3Rpb24uY29udGFpbnMoaXRlcmF0b3IubmV4dCgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rpb24ucmVtb3ZlSWYoc3RyaW5nQ29sbGVjdGlvbi5jb250YWlucyhpdGVyYXRvci5uZXh0KCkpKTsK</text>
       </register>
     </registers>
   </component>
