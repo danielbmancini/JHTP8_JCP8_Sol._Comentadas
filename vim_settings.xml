@@ -63,16 +63,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587330199135">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1586839928472">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/vim_settings.xml" timestamp="1587328914334">
-        <mark key="[" line="124" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587222828647">
         <mark key="[" line="2" column="0" />
@@ -98,8 +90,8 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587220453049">
-        <mark key="[" line="30" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587467854559">
+        <mark key="[" line="25" column="73" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
@@ -114,7 +106,7 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587467664515">
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587467727595">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
@@ -132,28 +124,19 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveReverseString.java" timestamp="1586503971646">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586839447944">
-        <mark key="[" line="91" column="50" />
-        <mark key="]" line="91" column="20" />
-        <mark key="." line="91" column="19" />
-        <mark key="^" line="91" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveMinimum.java" timestamp="1586505318710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
         <mark key="[" line="7" column="74" />
         <mark key="]" line="7" column="74" />
         <mark key="^" line="5" column="8" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587468345600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.git/info/exclude" timestamp="1587467997254">
+        <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587329514894">
         <mark key="[" line="23" column="30" />
@@ -169,6 +152,9 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.idea/.gitignore" timestamp="1587468068493">
+        <mark key="[" line="2" column="14" />
+      </file>
     </filemarks>
     <jumps />
   </component>
@@ -178,24 +164,33 @@
         <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
+        <text>This reverts commit 990f680f</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
+        <text>This reverts commit 990f680f</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rpb24ucmVtb3ZlSWYoc3RyaW5nQ29sbGVjdGlvbi5jb250YWlucyhpdGVyYXRvci5uZXh0KCkpKTsK</text>
+        <text encoding="base64">UmV2ZXJ0ICJJQy0yMDIwLjEgPGRhbmllbEBkYW5pZWwtUE9TLUVDSUc0MUJTIFVwZGF0ZSB2aW1fc2V0dGluZ3MueG1sLCBkZWJ1Z2dlci54bWwiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHByZWRpY2F0ZSA9IHN0cmluZ0NvbGxlY3Rpb24uY29udGFpbnMoaXRlcmF0b3IubmV4dCgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rpb24ucmVtb3ZlSWYoc3RyaW5nQ29sbGVjdGlvbi5jb250YWlucyhpdGVyYXRvci5uZXh0KCkpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHByZWRpY2F0ZSA9IHN0cmluZ0NvbGxlY3Rpb24uY29udGFpbnMoaXRlcmF0b3IubmV4dCgpKTsK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
       </register>
     </registers>
