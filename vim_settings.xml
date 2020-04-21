@@ -1,0 +1,216 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1587330199135">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1586839928472">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/vim_settings.xml" timestamp="1587328914334">
+        <mark key="[" line="124" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/ImprovedBubbleSort.java" timestamp="1587222828647">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSort.java" timestamp="1587124857779">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="39" column="9" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/RecursiveBinarySearch.java" timestamp="1587220832672">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1586842407282">
+        <mark key="[" line="82" column="76" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587220453049">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/CollectionTest.java" timestamp="1587384602795">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Java 8 lambdas streams cdc/src/List_Sort2.java" timestamp="1586865125884">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587467664515">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/ListTest.java" timestamp="1587386389883">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/UsingTOArray.java" timestamp="1587466662551">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveReverseString.java" timestamp="1586503971646">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1586839447944">
+        <mark key="[" line="91" column="50" />
+        <mark key="]" line="91" column="20" />
+        <mark key="." line="91" column="19" />
+        <mark key="^" line="91" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/RecursiveMinimum.java" timestamp="1586505318710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
+        <mark key="[" line="7" column="74" />
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587329514894">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1586865016021">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BubbleSort.java" timestamp="1587147384706">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="27" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGxlY3Rpb24ucmVtb3ZlSWYoc3RyaW5nQ29sbGVjdGlvbi5jb250YWlucyhpdGVyYXRvci5uZXh0KCkpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTdHJpbmc+IGl0ZXJhdG9yID0gY29sbGVjdGlvbi5pdGVyYXRvcigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHByZWRpY2F0ZSA9IHN0cmluZ0NvbGxlY3Rpb24uY29udGFpbnMoaXRlcmF0b3IubmV4dCgpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
