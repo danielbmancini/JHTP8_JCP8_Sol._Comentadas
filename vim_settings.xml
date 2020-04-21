@@ -63,6 +63,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587468345600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1586839928472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,9 +111,9 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587467727595">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587468708557">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="62" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="29" />
       </file>
@@ -124,19 +129,20 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort2.java" timestamp="1587468715555">
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="12" column="62" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.git/info/exclude" timestamp="1587467997254">
+        <mark key="[" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
         <mark key="[" line="7" column="74" />
         <mark key="]" line="7" column="74" />
         <mark key="^" line="5" column="8" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587468345600">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.git/info/exclude" timestamp="1587467997254">
-        <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587329514894">
         <mark key="[" line="23" column="30" />
@@ -161,13 +167,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVkaWNhdGU8U3RyaW5nPiBwcmVkaWNhdGUgPSAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="1" type="2">
         <text>This reverts commit 990f680f</text>
       </register>
       <register name="&quot;" type="2">
-        <text>This reverts commit 990f680f</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
