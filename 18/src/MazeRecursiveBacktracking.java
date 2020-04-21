@@ -61,12 +61,12 @@ public class MazeRecursiveBacktracking {
         mazeArray[a][b] = '.';
 
         if (a == initialPosition[0] && b == initialPosition[1])
-            mazeArray[a][b] = '#';
+            mazeArray[a][b] = 'O';
         Integer[] position = new Integer[]{a, b};
         path.add(position);
         if (a == finalPosition[0] && b == finalPosition[1]) return true;
 
-        if (thisDirection != 3) //do not revert direction for no reason
+        if (thisDirection != 3) //do not revert direction for no reason - easier method than counting possible movements
             if (mazeTraversal(a, b + 1, 1)) //going right
                 return true;
         if (thisDirection != 4)
