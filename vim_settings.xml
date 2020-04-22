@@ -74,6 +74,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/PriorityQueueTest.java" timestamp="1587575313022">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="49" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort3.java" timestamp="1587470092601">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="63" />
@@ -147,11 +154,11 @@
         <mark key="^" line="31" column="48" />
         <mark key="." line="31" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
-        <mark key="[" line="7" column="74" />
-        <mark key="]" line="7" column="74" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/SetTest.java" timestamp="1587576282356">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587329514894">
         <mark key="[" line="23" column="30" />
@@ -164,17 +171,14 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="13" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BubbleSort.java" timestamp="1587147384706">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="27" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.idea/.gitignore" timestamp="1587468068493">
         <mark key="[" line="2" column="14" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="11" column="30" filename="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/PriorityQueueTest.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/PriorityQueueTest.java" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
