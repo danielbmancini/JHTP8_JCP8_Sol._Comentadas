@@ -86,12 +86,6 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSort.java" timestamp="1587124857779">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="39" column="9" />
-        <mark key="." line="2" column="4" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/RecursiveBinarySearch.java" timestamp="1587220832672">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="33" column="8" />
@@ -147,6 +141,12 @@
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.git/info/exclude" timestamp="1587467997254">
         <mark key="[" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/StackTest.java" timestamp="1587574360967">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="48" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="31" column="47" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/Cap. 19/src/MergeSortTest.java" timestamp="1587124955146">
         <mark key="[" line="7" column="74" />
         <mark key="]" line="7" column="74" />
@@ -179,13 +179,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludFN0YWNrKHN0YWNrKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJcbkFmdGVyIGFkZEFsbCwgbGlzdDIgY29udGFpbnM6ICIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJcbkFmdGVyIGFkZEFsbCwgbGlzdDIgY29udGFpbnM6ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludFN0YWNrKHN0YWNrKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
