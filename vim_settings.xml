@@ -93,11 +93,11 @@
         <mark key="^" line="13" column="63" />
         <mark key="." line="13" column="62" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/WordTypeCount.java" timestamp="1587699916433">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/WordTypeCount.java" timestamp="1587702790098">
+        <mark key="[" line="32" column="59" />
+        <mark key="]" line="32" column="58" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="32" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/DeckOfCards.java" timestamp="1587476501331">
         <mark key="[" line="47" column="5" />
@@ -178,6 +178,7 @@
     <jumps>
       <jump line="11" column="30" filename="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/PriorityQueueTest.java" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/PriorityQueueTest.java" />
+      <jump line="25" column="16" filename="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/WordTypeCount.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
