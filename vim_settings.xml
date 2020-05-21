@@ -121,6 +121,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1590070536714">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort1.java" timestamp="1587468708557">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="62" />
@@ -160,11 +166,6 @@
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/QuickSort.java" timestamp="1587329514894">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/TimeComparator.java" timestamp="1587469368157">
         <mark key="[" line="13" column="66" />
         <mark key="]" line="13" column="66" />
@@ -184,37 +185,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFN0YWNrKHN0YWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJcbkFmdGVyIGFkZEFsbCwgbGlzdDIgY29udGFpbnM6ICIpCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFN0YWNrKHN0YWNrKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU29ydGVkIGFycmF5IGVsZW1lbnRzOiAlcyVuIixsaXN0KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text>This reverts commit 990f680f</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbFBvc2l0aW9uID0gZmluYWxQb3M7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUG9zaXRpb24gPSBpbml0aWFsUG9zOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYSA9IGIgPT0gMCA/IDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGEgPSAwOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">UmV2ZXJ0ICJJQy0yMDIwLjEgPGRhbmllbEBkYW5pZWwtUE9TLUVDSUc0MUJTIFVwZGF0ZSB2aW1fc2V0dGluZ3MueG1sLCBkZWJ1Z2dlci54bWwiCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEyOyBpKyspIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0SXRlcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5QcmVkaWNhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
   </component>
