@@ -1,12 +1,16 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+    exercise 18.20
+    tested for random mazes with varied lengths
+ */
 public class MazeRecursiveBacktracking {
     private static final int N = 12; //length of maze
     private static final char[][] mazeArray = new char[N][N];
     private static int[] initialPosition; //the maze's entrance
     private static int[] finalPosition; //the maze's exit on the right
-    private static final ArrayList<Integer[]> path = new ArrayList<>();
+    private static final ArrayList<int[]> path = new ArrayList<>();
 
     public static void main(String[] args) {
         String mazeString = "# # # # # # # # # # # #" +
@@ -33,7 +37,6 @@ public class MazeRecursiveBacktracking {
 
     private static void processMazeString(String string) {
         string = string.replaceAll(" ", "");
-
         int a = 0;
         for (int i = 0; i < string.length(); i++) {
             int b = i % N; //b loops 0 through N - 1 as needed
@@ -60,12 +63,12 @@ public class MazeRecursiveBacktracking {
         printMazeArray();
         mazeArray[a][b] = '.';
 
-        if (a == initialPosition[0] && b == initialPosition[1])
-            mazeArray[a][b] = 'O';
-        Integer[] position = new Integer[]{a, b};
+        int[] position = new int[]{a, b};
         path.add(position);
         if (a == finalPosition[0] && b == finalPosition[1]) return true;
 
+        if (!moreThanOneMovementPossible(a, b))
+            mazeArray[a][b] = 'O';
         if (thisDirection != 3) //do not revert direction for no reason - easier method than counting possible movements
             if (mazeTraversal(a, b + 1, 1)) //going right
                 return true;
@@ -79,9 +82,35 @@ public class MazeRecursiveBacktracking {
             if (mazeTraversal(a - 1, b, 4)) //going up
                 return true;
 
+
         path.remove(position);
-        mazeArray[a][b] = 'O';
         return false;
+    }
+
+    private static boolean moreThanOneMovementPossible(int a, int b) {
+        int count = 0;
+        try {
+            if (mazeArray[a][b + 1] == '.')
+                count++;
+        } catch (ArrayIndexOutOfBoundsException ignored) {
+        }
+        try {
+            if (mazeArray[a][b - 1] == '.')
+                count++;
+        } catch (ArrayIndexOutOfBoundsException ignored) {
+        }
+        try {
+            if (mazeArray[a + 1][b] == '.')
+                count++;
+        } catch (ArrayIndexOutOfBoundsException ignored) {
+        }
+        try {
+            if (mazeArray[a - 1][b] == '.')
+                count++;
+        } catch (ArrayIndexOutOfBoundsException ignored) {
+        }
+
+        return count > 1;
     }
 
     private static void printFinalPath() {
