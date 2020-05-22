@@ -69,7 +69,7 @@
         <mark key="^" line="29" column="61" />
         <mark key="." line="29" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590144572514">
+      <file name="/Dummy.txt" timestamp="1590146096898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -115,11 +115,6 @@
         <mark key="[" line="25" column="73" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/CollectionTest.java" timestamp="1587384602795">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1590143758830">
         <mark key="[" line="68" column="31" />
@@ -187,34 +182,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBmaW5hbFBvc2l0aW9uWzBdICYmIGIgPT0gZmluYWxQb3NpdGlvblsxXSkgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgaWYgKGEgLSAxICE9IGluaXRpYWxQb3NpdGlvblswXSB8fCBiICE9IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
+        <text encoding="base64">SUMtMjAyMC4xIDxkYW5pZWxAZGFuaWVsLVBPUy1FQ0lHNDFCUyBVcGRhdGUgdmltX3NldHRpbmdzLnhtbAoKKGNoZXJyeSBwaWNrZWQgZnJvbSBjb21taXQgMTY1ZDMyMzUxZmFiZDkxOGFmN2I3NDUyNmEwZWViYTNkYTdhNzQ1MSkKCiMgQ29uZmxpY3RzOgojCXZpbV9zZXR0aW5ncy54bWwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgaWYgKGEgLSAxICE9IGluaXRpYWxQb3NpdGlvblswXSB8fCBiICE9IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
+        <text encoding="base64">SUMtMjAyMC4xIDxkYW5pZWxAZGFuaWVsLVBPUy1FQ0lHNDFCUyBVcGRhdGUgdmltX3NldHRpbmdzLnhtbAoKKGNoZXJyeSBwaWNrZWQgZnJvbSBjb21taXQgMTY1ZDMyMzUxZmFiZDkxOGFmN2I3NDUyNmEwZWViYTNkYTdhNzQ1MSkKCiMgQ29uZmxpY3RzOgojCXZpbV9zZXR0aW5ncy54bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoYSAhPSBpbml0aWFsUG9zaXRpb25bMF0gfHwgYiAtIDEgIT0gaW5pdGlhbFBvc2l0aW9uWzFdKQo=</text>
+        <text encoding="base64">SUMtMjAyMC4xIDxkYW5pZWxAZGFuaWVsLVBPUy1FQ0lHNDFCUyBVcGRhdGUgdmltX3NldHRpbmdzLnhtbAoKKGNoZXJyeSBwaWNrZWQgZnJvbSBjb21taXQgMTY1ZDMyMzUxZmFiZDkxOGFmN2I3NDUyNmEwZWViYTNkYTdhNzQ1MSkKCiMgQ29uZmxpY3RzOgojCXZpbV9zZXR0aW5ncy54bWw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmIChhICsgMSAhPSBpbml0aWFsUG9zaXRpb25bMF0gfHwgYiAhPSBpbml0aWFsUG9zaXRpb25bMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgaWYgKGEgLSAxICE9IGluaXRpYWxQb3NpdGlvblswXSB8fCBiICE9IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgaWYgKGEgIT0gaW5pdGlhbFBvc2l0aW9uWzBdIHx8IGIgKyAxICE9IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoYSAhPSBpbml0aWFsUG9zaXRpb25bMF0gfHwgYiAtIDEgIT0gaW5pdGlhbFBvc2l0aW9uWzFdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL2lmIChhICsgMSAhPSBpbml0aWFsUG9zaXRpb25bMF0gfHwgYiAhPSBpbml0aWFsUG9zaXRpb25bMV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgaWYgKGEgIT0gaW5pdGlhbFBvc2l0aW9uWzBdIHx8IGIgKyAxICE9IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBmaW5hbFBvc2l0aW9uWzBdICYmIGIgPT0gZmluYWxQb3NpdGlvblsxXSkgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
   </component>
