@@ -69,7 +69,7 @@
         <mark key="^" line="29" column="61" />
         <mark key="." line="29" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590146096898">
+      <file name="/Dummy.txt" timestamp="1590175930252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -86,6 +86,9 @@
         <mark key="]" line="21" column="38" />
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="37" />
+      </file>
+      <file name="/a.dummy" timestamp="1590175924970">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_Non-repeating_Examples/20/src/Sort3.java" timestamp="1587470092601">
         <mark key="[" line="13" column="65" />
@@ -111,12 +114,7 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="60" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/19/src/BucketSort.java" timestamp="1587467854559">
-        <mark key="[" line="25" column="73" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1590173654928">
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking.java" timestamp="1590173759082">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="31" />
         <mark key="." line="77" column="0" />
@@ -133,11 +131,11 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1590173657956">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="31" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="70" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/18/src/MazeRecursiveBacktracking2.java" timestamp="1590175880457">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JHTP8_JCP8_Sol._Comentadas/.git/info/exclude" timestamp="1587467997254">
         <mark key="[" line="5" column="4" />
@@ -179,34 +177,88 @@
         <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAyKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAyKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nLmxlbmd0aCgpKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAxKQo=</text>
+      <register name="2" type="4">
+        <text>+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+&quot; +
+                &quot;..|.............|.................|.....|&quot; +
+                &quot;+.+.+-+-+-+-+-+.+-+.+-+-+.+-+.+-+.+.+-+.+&quot; +
+                &quot;|...|.|...|.........|.....|...|...|.|...|&quot; +
+                &quot;+-+-+.+.+.+.+-+-+-+-+.+-+-+-+.+-+-+.+.+-+&quot; +
+                &quot;|...|.|.|...|.|...|...|.....|.......|...|&quot; +
+                &quot;+.+.+.+.+-+-+.+.+.+.+-+.+-+.+-+-+-+-+-+.+&quot; +
+                &quot;|.|.....|.....|.|.|.|...|.|.|.......|...|&quot; +
+                &quot;+.+-+-+-+.+-+.+.+.+.+.+-+.+.+.+-+-+.+.+-+&quot; +
+                &quot;|.|.|.....|.|.|.|.|.|...|...|.|...|...|.|&quot; +
+                &quot;+.+.+.+-+-+.+.+-+.+.+-+.+-+-+.+.+.+-+-+.+&quot; +
+                &quot;|.|.|...|...|.....|.|.|...|...|.|.....|.|&quot; +
+                &quot;+.+.+-+.+.+-+-+-+-+.+.+-+.+.+-+.+-+-+.+.+&quot; +
+                &quot;|.....|.|.|.|.......|.|.|.|...|.|...|.|.|&quot; +
+                &quot;+.+-+-+.+.+.+.+-+-+-+.+.+.+-+.+.+.+-+.+.+&quot; +
+                &quot;|...|.....|.|.....|...|.......|.|.|...|.|&quot; +
+                &quot;+-+.+.+.+-+.+.+-+.+.+-+-+-+-+.+.+.+.+-+.+&quot; +
+                &quot;|.|...|...|.|...|.|.|...........|.....|.|&quot; +
+                &quot;+.+-+-+-+.+.+-+-+.+.+-+-+-+-+.+-+-+.+.+.+&quot; +
+                &quot;|.|...|.....|.....|...|...|.......|.|...|&quot; +
+                &quot;+.+.+.+-+.+-+.+-+-+.+.+.+.+-+-+-+.+.+-+-+&quot; +
+                &quot;|.|.|.....|...|...|.|...|.......|.|.|...|&quot; +
+                &quot;+.+.+-+-+-+.+-+.+.+-+-+-+-+-+-+.+.+.+.+.+&quot; +
+                &quot;|.|...|...|.|...|.|...|.......|...|...|.|&quot; +
+                &quot;+.+-+.+-+.+.+-+-+.+.+.+.+-+-+-+-+-+-+-+.+&quot; +
+                &quot;|...|.....|...|.....|.|.|.......|...|...|&quot; +
+                &quot;+-+.+-+-+-+-+.+.+.+-+.+.+.+-+-+.+.+.+-+.+&quot; +
+                &quot;|.........|...|.|...|.|.|.....|.|.|.....|&quot; +
+                &quot;+-+.+-+-+.+.+-+.+.+-+.+.+-+-+.+.+.+-+-+-+&quot; +
+                &quot;|...|...|...|...|...|...|...|.|...|.....|&quot; +
+                &quot;+.+-+.+.+-+-+.+-+-+.+-+-+.+.+.+-+-+-+-+.+&quot; +
+                &quot;|...|.|...|...|.......|...|...|.....|...|&quot; +
+                &quot;+-+-+.+-+.+.+-+.+-+-+.+.+-+.+-+.+-+.+.+-+&quot; +
+                &quot;|.....|.|...|...|...|.....|.|...|.|...|.|&quot; +
+                &quot;+.+-+-+.+-+-+-+-+.+-+-+.+.+-+.+-+.+-+.+.+&quot; +
+                &quot;|.|.....|...............|...|...|...|...|&quot; +
+                &quot;+.+-+.+-+.+-+-+-+-+-+-+-+-+.+.+-+-+.+-+-+&quot; +
+                &quot;|...|...|.|...|...........|...|.....|...|&quot; +
+                &quot;+-+.+-+.+.+.+.+-+-+.+-+-+.+-+-+.+.+-+.+.+&quot; +
+                &quot;|.......|...|.......|...........|.....|..&quot; +
+                &quot;+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSA0KQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nLmxlbmd0aCgpKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAzKSAvL2RvIG5vdCByZXZlcnQgZGlyZWN0aW9uIGZvciBubyByZWFzb24gLSBlYXNpZXIgbWV0aG9kIHRoYW4gY291bnRpbmcgcG9zc2libGUgbW92ZW1lbnRzCg==</text>
+      <register name="4" type="4">
+        <text>&quot;# # # # # # # # # # # #&quot; +
+                &quot;# . . . # . . . . . . #&quot; +
+                &quot;# . # . # . # # # # . #&quot; +
+                &quot;# # # . # . . . . # . #&quot; +
+                &quot;# . . . . # # # . # . .&quot; +
+                &quot;# # # # . # . # . # # #&quot; +
+                &quot;. . . . . # . # . # . #&quot; +
+                &quot;# # . # # # . # . # . #&quot; +
+                &quot;# . . # . . . . . . . #&quot; +
+                &quot;# . # # . # . # # # . #&quot; +
+                &quot;# . . . . . . # . . . #&quot; +
+                &quot;# # # # # # # # # # # #&quot;;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vICBtYXplQXJyYXlbYV1bYl0gPSAnTyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmIChhID09IGluaXRpYWxQb3NpdGlvblswXSAmJiBiID09IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SUMtMjAyMC4xIDxkYW5pZWxAZGFuaWVsLVBPUy1FQ0lHNDFCUyBVcGRhdGUgdmltX3NldHRpbmdzLnhtbAoKKGNoZXJyeSBwaWNrZWQgZnJvbSBjb21taXQgMTY1ZDMyMzUxZmFiZDkxOGFmN2I3NDUyNmEwZWViYTNkYTdhNzQ1MSkKCiMgQ29uZmxpY3RzOgojCXZpbV9zZXR0aW5ncy54bWwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSA0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SUMtMjAyMC4xIDxkYW5pZWxAZGFuaWVsLVBPUy1FQ0lHNDFCUyBVcGRhdGUgdmltX3NldHRpbmdzLnhtbAoKKGNoZXJyeSBwaWNrZWQgZnJvbSBjb21taXQgMTY1ZDMyMzUxZmFiZDkxOGFmN2I3NDUyNmEwZWViYTNkYTdhNzQ1MSkKCiMgQ29uZmxpY3RzOgojCXZpbV9zZXR0aW5ncy54bWw=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpc0RpcmVjdGlvbiAhPSAzKSAvL2RvIG5vdCByZXZlcnQgZGlyZWN0aW9uIGZvciBubyByZWFzb24gLSBlYXNpZXIgbWV0aG9kIHRoYW4gY291bnRpbmcgcG9zc2libGUgbW92ZW1lbnRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgaWYgKGEgLSAxICE9IGluaXRpYWxQb3NpdGlvblswXSB8fCBiICE9IGluaXRpYWxQb3NpdGlvblsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICBtYXplQXJyYXlbYV1bYl0gPSAnTyc7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
   </component>
