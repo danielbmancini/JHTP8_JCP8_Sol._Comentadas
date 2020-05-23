@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /*
-    exercise 18.20
+    exercise 18.20/22
     tested for random mazes with varied lengths
  */
 public class MazeRecursiveBacktracking {

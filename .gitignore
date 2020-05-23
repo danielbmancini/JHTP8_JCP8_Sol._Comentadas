@@ -1,7 +1,8 @@
 colors.scheme.xml
 filetypes.xml
 debugger.xml
-filetypes.xml
+*.xml
 studioFlags.xml
 vcs.xml
 vim_settings.xml
+editor.xml
