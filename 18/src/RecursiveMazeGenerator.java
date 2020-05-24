@@ -13,7 +13,7 @@ public class RecursiveMazeGenerator {
     private static int[] finalPosition; //ends up being at (length - 2 + (length % 2), length - 2 + (length % 2))
 
     public static void main(String[] arg) {
-        length = 13;
+        length = 12;
         startMazeArray();
         generateMaze(new int[]{0, 0});
         printMazeArray();
@@ -49,25 +49,26 @@ public class RecursiveMazeGenerator {
                 return;
         }
     }
-
     //returns a list with valid directions for movement
     private static ArrayList<Function<int[], int[]>> possibleMovements(int[] cell) {
         ArrayList<Function<int[], int[]>> possibleDirectionsList = new ArrayList<>();
-        Function<int[], int[]>[] functionArray = new Function[4];
-        functionArray[0] = position -> new int[]{position[0], position[1] + 1};
-        functionArray[1] = position -> new int[]{position[0], position[1] - 1};
-        functionArray[2] = position -> new int[]{position[0] + 1, position[1]};
-        functionArray[3] = position -> new int[]{position[0] - 1, position[1]};
+        possibleDirectionsList.add(position -> new int[]{position[0], position[1] + 1});
+        possibleDirectionsList.add(position -> new int[]{position[0], position[1] - 1});
+        possibleDirectionsList.add(position -> new int[]{position[0] + 1, position[1]});
+        possibleDirectionsList.add(position -> new int[]{position[0] - 1, position[1]});
 
-        for (Function<int[], int[]> function : functionArray)
+        ArrayList<Function<int[], int[]>> possibleDirectionsListCopy = new ArrayList<>(possibleDirectionsList);
+        for (Function<int[], int[]> function : possibleDirectionsList) {
             try {
                 int[] newCell = function.apply(function.apply(cell));
-                if (mazeArray[newCell[0]][newCell[1]] == '#')
-                    possibleDirectionsList.add(function);
-            } catch (ArrayIndexOutOfBoundsException ignored) {
+                if (mazeArray[newCell[0]][newCell[1]] != '#')
+                    possibleDirectionsListCopy.remove(function);
+            } catch (ArrayIndexOutOfBoundsException arrayIndexOutOfBoundsException) {
+                possibleDirectionsListCopy.remove(function);
             }
+        }
 
-        return possibleDirectionsList;
+        return possibleDirectionsListCopy;
     }
 
     private static void printMazeArray() {
