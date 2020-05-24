@@ -10,10 +10,10 @@ public class RecursiveMazeGenerator {
     private static int length;
     private static char[][] mazeArray;
     private static final Random random = new Random();
-    private static int[] finalPosition; //is actually at (length - 2, length - 2)
+    private static int[] finalPosition; //ends up being at (length - 2 + (length % 2), length - 2 + (length % 2))
 
     public static void main(String[] arg) {
-        length = 12;
+        length = 13;
         startMazeArray();
         generateMaze(new int[]{0, 0});
         printMazeArray();
@@ -21,7 +21,7 @@ public class RecursiveMazeGenerator {
 
     private static void startMazeArray() {
         mazeArray = new char[length][length];
-        finalPosition = new int[]{length - 1, length - 1};
+        finalPosition = new int[]{length - 2 + (length % 2), length - 2 + (length % 2)};
         for (char[] chars : mazeArray)
             Arrays.fill(chars, '#');
     }
