@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class EightQueens {
+public class EightQueensBacktracking {
     private static final int N = 8; //N queens for NxN boards
     private static final int[][] board = new int[N][N];
     private static int solutionCounter = 0;
