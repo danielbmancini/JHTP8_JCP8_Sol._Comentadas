@@ -17,9 +17,8 @@ public class WordCountingByLength {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n");
         System.out.println("Input sentence.");
-        String[] words = scanner.next().split(" ");
+        String[] words = scanner.nextLine().split(" ");
 
         lengths = new int[getBiggestLength(words)];
         Arrays.fill(lengths, 0);

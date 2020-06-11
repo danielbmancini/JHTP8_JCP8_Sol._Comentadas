@@ -7,9 +7,8 @@ import java.util.Scanner;
 public class PhoneNumberTokenization {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n"); //so scanner reads the whole input
         System.out.println("Input phone number.");
-        String phone = scanner.next();
+        String phone = scanner.nextLine();
         String[] tokens = phone.split("( )|-|\\(|\\)");
         StringBuilder phoneNumber = new StringBuilder();
         for (String string : tokens)//concatenates non empty numeric strings

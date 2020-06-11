@@ -6,9 +6,8 @@ import java.util.Scanner;
 public class AlphabetLettersFrequency {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n");
         System.out.println("Input sentence.");
-        String input = scanner.next().toLowerCase();//to count all letters disregarding case
+        String input = scanner.nextLine().toLowerCase();//to count all letters disregarding case
         int[] occurrences = new int[26];
 
         System.out.println("Letter\tOccurrences");

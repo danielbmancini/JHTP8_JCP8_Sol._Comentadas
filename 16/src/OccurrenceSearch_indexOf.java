@@ -6,11 +6,10 @@ import java.util.Scanner;
 public class OccurrenceSearch_indexOf {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n");
         System.out.println("Input sentence.");
-        String input = scanner.next();
+        String input = scanner.nextLine();
         System.out.println("Input character.");
-        String character = scanner.next();
+        String character = scanner.nextLine();
         int occurrences = 0;
         int range = 0;
         while (input.indexOf(character, range) != -1) //count occurrences by searching in increasingly restrictive ranges

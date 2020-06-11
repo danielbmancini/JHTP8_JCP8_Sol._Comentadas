@@ -57,9 +57,9 @@ public class PhoneNumberLettersPermutations {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n");
         System.out.println("Insert phone number.");
-        String phoneNumber = scanner.next();
+        //Input format: "abc-defg" , each letter standing for a digit between 2 and 9.
+        String phoneNumber = scanner.nextLine();
         arrays = new char[phoneNumber.length() - 1][3];
         int count = 0;
         for (char num : phoneNumber.toCharArray())

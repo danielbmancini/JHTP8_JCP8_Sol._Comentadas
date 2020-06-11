@@ -6,9 +6,8 @@ import java.util.Scanner;
 public class LowercaseUppercaseTokenPrinting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n"); //so scanner reads the whole input
         System.out.println("Input sentence.");
-        String input = scanner.next();
+        String input = scanner.nextLine();
         String[] tokens = input.split(" ");
         for (int j = 0; j < tokens.length; j++)
             System.out.println(tokens[j].toUpperCase());

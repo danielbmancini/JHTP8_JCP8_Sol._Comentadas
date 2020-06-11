@@ -7,11 +7,10 @@ import java.util.Scanner;
 public class RecursivePalindromeTesting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n");
 
         System.out.println("(Insert candidate)\n");
 
-        char[] string = scanner.next().replaceAll("[ .,?'!\":;]", "") //removes punctuation, white spaces and turns everything lower case
+        char[] string = scanner.nextLine().replaceAll("[ .,?'!\":;]", "") //removes punctuation, white spaces and turns everything lower case
                 .toLowerCase().toCharArray();
 
         System.out.println(testPalindrome(0, string.length - 1, string));

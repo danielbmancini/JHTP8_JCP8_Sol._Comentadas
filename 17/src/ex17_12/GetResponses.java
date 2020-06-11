@@ -11,9 +11,8 @@ public class GetResponses {
 
     public static void generateResponses() {
         Scanner scanner = new Scanner(System.in);
-        scanner.useDelimiter("\\n");
         System.out.println("Input responses separated by an empty space.");
-        String[] tokens = scanner.next().split(" ");
+        String[] tokens = scanner.nextLine().split(" ");
         responses = new int[tokens.length];
         for (int i = 0; i < responses.length; i++)
             responses[i] = Integer.parseInt(tokens[i]);
