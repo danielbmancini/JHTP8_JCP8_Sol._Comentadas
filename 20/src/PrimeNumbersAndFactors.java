@@ -2,7 +2,9 @@ import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.Random;
 import java.util.Scanner;
-
+/*
+    exercise 20.19
+ */
 public class PrimeNumbersAndFactors {
     private static HashSet<Integer> factors = new HashSet<>();
     private static Random random = new Random();
@@ -33,7 +35,7 @@ public class PrimeNumbersAndFactors {
                     break;
                 }
             }
-            if (!continueOuterLoop) //if the inner was not broken
+            if (!continueOuterLoop) //if the inner loop was not broken
                 return false; //number is composite
         }
         return true; //number is probably prime
