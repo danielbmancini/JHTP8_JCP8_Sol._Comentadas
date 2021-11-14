@@ -67,7 +67,7 @@ public class PrimeNumbersAndFactors {
         factors.add(sign);
         number *= sign;
 
-        //return 1 and number if it's is prime, or factor number if it's composite
+        //return 1 and number if it is prime, or factor number if it's composite
         if (isProbablyPrime(number)) {
             factors.add(number);
             System.out.printf("%n%d is probably prime.%n", number);
