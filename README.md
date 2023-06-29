@@ -8,7 +8,6 @@ Capítulo 5     | Classe                                      | Nome            
 |5.17|[SellingCalculations.java](5/src/SellingCalculation.java)| Calculando vendas| 
 |5.20|[PiValue.java](5/src/PiValue.java)| Calculando o valor de π| 
 |5.21|[PythagoreanTriples.java](5/src/.java)| Triplos de Pitágoras| 
-|5.|[.java](5/src/.java)| | 
 
 Capítulo 7     | Classe                                      | Nome                               |
 |----------------|--------------------------------------------|-------------------------------------------|
