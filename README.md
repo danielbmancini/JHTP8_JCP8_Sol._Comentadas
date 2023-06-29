@@ -83,7 +83,7 @@ Capítulo 17     | Classe                                      | Nome           
 Capítulo 17 (10º edição em inglês) | Classe                                      | Nome                               |
 |----------------|--------------------------------------------|-------------------------------------------|
 |17.9|[SummarizingCharactersFile.java](17.10th/src/SummarizingCharactersFile.java)|Summarizing the Characters in a File | 
-|17.10|[SummarizingCharactersFileSummarizingFileTypesDirectory.java](17.10th/src/SummarizingCharactersFileSummarizingFileTypesDirectory.java)|Summarizing the Characters in a FileSummarizing the File Types in a Directory | 
+|17.10|[SummarizingCharactersFileSummarizingFileTypesDirectory.java](17.10th/src/SummarizingCharactersFileSummarizingFileTypesDirectory.java)|Summarizing the File Types in a Directory | 
 |17.11|[ManipulatingStreamInvoice.java](17.10th/src/ManipulatingStreamInvoice.java)| Manipulating a Stream\<Invoice\>| 
 |17.12|[ DuplicateWordRemoval.java](17.10th/src/DuplicateWordRemoval.java)|Duplicate Word Removal | 
 |17.14|[MappingReducingIntStreamParallelization.java](17.10th/src/MappingReducingIntStreamParallelization.java)|Mapping Then Reducing An IntStream for Parallelization| 
