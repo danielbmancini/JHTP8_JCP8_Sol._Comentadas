@@ -7,7 +7,7 @@ Capítulo 5     | Classe                                      | Nome            
 |5.16|[BarChartPrinting.java](5/src/BarChartPrinting.java)|Programa de impressão de gráfico de barras | 
 |5.17|[SellingCalculations.java](5/src/SellingCalculation.java)| Calculando vendas| 
 |5.20|[PiValue.java](5/src/PiValue.java)| Calculando o valor de π| 
-|5.21|[PythagoreanTriples.java](5/src/.java)| Triplos de Pitágoras| 
+|5.21|[PythagoreanTriples.java](5/src/.java)| Triplas de Pitágoras| 
 
 Capítulo 7     | Classe                                      | Nome                               |
 |----------------|--------------------------------------------|-------------------------------------------|
