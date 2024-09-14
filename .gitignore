@@ -1,9 +1,11 @@
 colors.scheme.xml
 filetypes.xml
 debugger.xml
-*.xml
+editor.xml
 studioFlags.xml
 vcs.xml
 vim_settings.xml
-editor.xml
 compiler.xml
+.idea
+codestyles
+_linux

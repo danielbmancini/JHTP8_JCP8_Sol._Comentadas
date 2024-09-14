@@ -114,9 +114,9 @@ Capítulo 20 | Classe                                      | Nome               
 |20.20|[SortingTreeSet.java](20/src/SortingTreeSet.java)| Classificando palavras com um TreeSet| 
 |20.21|[ChangingPriorityQueueOrder.java](20/src/ChangingPriorityQueueOrder.java)|Alterando a ordem de classificação de uma PriorityQueue | 
 
-Capítulo 20 (10º edição em inglês) | Classe                                      | Nome                               |
-|----------------|--------------------------------------------|-------------------------------------------|
-|20.4|[GenericMethodSelectionSor.java](20.th/src/GenericMethodSelectionSor.java)| Generic Method selectionSort| 
-|20.5|[OverloadedGenericMethodPrintArray.java](20.th/src/OverloadedGenericMethodPrintArray.java)|Overloaded Generic Method printArray | 
-|20.6|[OverloadingGenericMethodNongeneric.java](20.th/src/OverloadingGenericMethodNongeneric.java)| Overloading a Generic Method with a Nongeneric Method| 
-|20.7|[GenericIsEqualToMethod.java](20.th/src/GenericIsEqualToMethod.java)| Generic isEqualTo Method| 
+Capítulo 20 (10º edição em inglês) | Classe                                                                                         | Nome                               |
+|----------------|------------------------------------------------------------------------------------------------|-------------------------------------------|
+|20.4| [GenericMethodSelectionSort.java](20.10th/src/GenericMethodSelectionSort.java)                 | Generic Method selectionSort| 
+|20.5| [OverloadedGenericMethodPrintArray.java](20.10th/src/OverloadedGenericMethodPrintArray.java)   |Overloaded Generic Method printArray | 
+|20.6| [OverloadingGenericMethodNongeneric.java](20.10th/src/OverloadingGenericMethodNongeneric.java) | Overloading a Generic Method with a Nongeneric Method| 
+|20.7| [GenericIsEqualToMethod.java](20.10th/src/GenericIsEqualToMethod.java)                         | Generic isEqualTo Method| 
